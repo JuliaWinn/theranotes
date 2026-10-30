@@ -1,0 +1,14 @@
+data/
+exhibits/
+assets/
+research/
+tmp/
+dist/
+node_modules/
+.venv/
+.cache/
+docs/seo-*
+package-lock.json
+holmes-texts.html
+/reader.html
+worker-configuration.d.ts

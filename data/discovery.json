@@ -1,0 +1,611 @@
+{
+  "themes": [
+    {
+      "id": "alarm",
+      "label": "Warning signs",
+      "description": "Warnings about readiness, lab problems, publicity, and the business."
+    },
+    {
+      "id": "power",
+      "label": "Love & power",
+      "description": "Authority, credit, criticism, and the overlap between their working and personal relationships."
+    },
+    {
+      "id": "personal",
+      "label": "Personal",
+      "description": "Affection, arguments, family, travel, and life outside the lab."
+    },
+    {
+      "id": "press",
+      "label": "The press",
+      "description": "Handling reporters, public claims, employee criticism, and suspected sources."
+    },
+    {
+      "id": "regulators",
+      "label": "Regulators",
+      "description": "Inspections, validation documents, submissions, and clearance plans."
+    },
+    {
+      "id": "ops",
+      "label": "Inside the lab",
+      "description": "Testing, devices, staffing, software, and the practical work of running the lab."
+    },
+    {
+      "id": "money",
+      "label": "Money",
+      "description": "Retail contracts, investors, revenue targets, and cash."
+    }
+  ],
+  "incidents": [
+    {
+      "id": "safeway-warrants",
+      "title": "Who controls the patient numbers?",
+      "description": "Elizabeth relays a request for Safeway performance warrants. Sunny objects that Theranos cannot control how many patients a store attracts.",
+      "tags": [
+        "money"
+      ],
+      "conversation": "c001",
+      "record": "Holmes_MacBookPro_Skype_000075",
+      "quote": "we dont control that. and he is not investing in theranos@safeway. he is investing in theranos. we may not hit 50 at safeway but still hit our revenue number.s",
+      "related": [],
+      "heat": 1
+    },
+    {
+      "id": "dfj-financials",
+      "title": "Projections or financials for DFJ?",
+      "description": "They discuss what to share with an existing investor, including projections and changes to the 2013 numbers.",
+      "tags": [
+        "money"
+      ],
+      "conversation": "c014",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_007491",
+      "quote": "I wd be ok with projections but not financials",
+      "related": [],
+      "heat": 2
+    },
+    {
+      "id": "family-visits",
+      "title": "Feeling alone during family visits",
+      "description": "Sunny says he feels lonely when Elizabeth’s family visits. They disagree over her attempts to include him; two replies are redacted.",
+      "tags": [
+        "personal",
+        "power"
+      ],
+      "conversation": "c017",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_008048",
+      "quote": "When ur family is here, I feel lonely bcz u spend a total of 10 seconds with me a day.",
+      "related": [],
+      "heat": 2
+    },
+    {
+      "id": "lab-call-center",
+      "title": "The lab and call center need fixing",
+      "description": "Complaints about customer service become a discussion of staffing, turnaround time, and rebuilding operations.",
+      "tags": [
+        "ops",
+        "alarm"
+      ],
+      "conversation": "c027",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_019866",
+      "quote": "We need. The lab and call center fixed..",
+      "related": [
+        "c030"
+      ],
+      "heat": 1
+    },
+    {
+      "id": "investor-destiny",
+      "title": "Investing in “our destiny”",
+      "description": "Elizabeth reports commitments from Alice Walton and Greg, then mentions Rupert. Sunny describes the investments in personal, aspirational terms.",
+      "tags": [
+        "money",
+        "personal"
+      ],
+      "conversation": "c029",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_020469",
+      "quote": "Awesome. I was thinking today. They are not investing in our company they are investing in our destiny.",
+      "related": [
+        "c034",
+        "c037"
+      ],
+      "heat": 2
+    },
+    {
+      "id": "new-yorker-role",
+      "title": "How should the New Yorker describe Sunny?",
+      "description": "They choose language for Sunny’s role in Theranos’s success, weighing “crucial,” “central,” and “integral.”",
+      "tags": [
+        "power",
+        "press",
+        "personal"
+      ],
+      "conversation": "c031",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_021150",
+      "quote": "Do you want New Yorker to say crucial to Theranos' success was hiring you",
+      "related": [],
+      "heat": 2
+    },
+    {
+      "id": "store-targets",
+      "title": "A thousand stores and the innovation payment",
+      "description": "They debate store targets, contract termination, and what happens to a remaining $50 million innovation payment.",
+      "tags": [
+        "money",
+        "ops"
+      ],
+      "conversation": "c049",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_029901",
+      "quote": "If contract terms and we don't have 1000 stores. What happens to 50m remaining innovation payment",
+      "related": [
+        "c046",
+        "c048"
+      ],
+      "heat": 1
+    },
+    {
+      "id": "recovered-vegas-rooms",
+      "title": "Vegas rooms and a contract to finish",
+      "description": "Sunny asks about moving a Vegas visit to the following weekend and says they also need time to finish the Walgreens contract.",
+      "tags": [
+        "personal",
+        "money"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_030009",
+      "quote": "Very difficult to get rooms in Vegas.",
+      "related": [],
+      "conversation": "c128",
+      "heat": 1
+    },
+    {
+      "id": "website-fingersticks",
+      "title": "Revisit the website at “~50% finger sticks”",
+      "description": "Sunny asks Elizabeth to review the website copy in light of the share of tests being done by fingerstick.",
+      "tags": [
+        "press",
+        "ops",
+        "alarm"
+      ],
+      "conversation": "c051",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_030332",
+      "quote": "You should revisit new .com copy in light of us doing ~50% finger sticks.",
+      "related": [],
+      "heat": 3
+    },
+    {
+      "id": "reporter-fingerstick-launch",
+      "title": "A possible WSJ visit meets a delayed rollout",
+      "description": "A possible reporter visit prompts discussion of when to launch fingerstick testing. Later that day, Sunny says the team is not confident about pushing it out that night.",
+      "tags": [
+        "press",
+        "ops",
+        "alarm"
+      ],
+      "conversation": "c054",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_031261",
+      "quote": "Better a perfect venipuncture than bad fingerstick",
+      "related": [
+        "c052",
+        "c055"
+      ],
+      "heat": 2
+    },
+    {
+      "id": "fusion-publicity",
+      "title": "Fusion GPS, publicity, and missing substance",
+      "description": "After a Fusion GPS meeting, Sunny worries about overexposure. They discuss press coverage, FDA clearance, and a Stanford critic’s call for peer review.",
+      "tags": [
+        "press",
+        "alarm",
+        "regulators"
+      ],
+      "conversation": "c056",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_031758",
+      "quote": "I am worried about over exposure without solid substance which is lacking right now.",
+      "related": [],
+      "heat": 2
+    },
+    {
+      "id": "molded-you",
+      "title": "“I have molded you.”",
+      "description": "Discussion of a talk and a critic gives way to Sunny’s comment about his influence on Elizabeth and their affectionate replies.",
+      "tags": [
+        "power",
+        "personal"
+      ],
+      "conversation": "c063",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_033285",
+      "quote": "I have molded you.",
+      "related": [],
+      "heat": 3
+    },
+    {
+      "id": "recovered-breeze-in-desert",
+      "title": "“You are breeze in desert for me”",
+      "description": "Between partnership discussions and later concerns about a negative review, Elizabeth sends a sequence of affectionate messages calling Sunny her breeze, water, and ocean.",
+      "tags": [
+        "personal"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_034064",
+      "quote": "You are breeze in desert for me",
+      "related": [],
+      "conversation": "c065",
+      "heat": 3
+    },
+    {
+      "id": "employee-review",
+      "title": "Trying to identify a negative reviewer",
+      "description": "Sunny says he is narrowing down who wrote a negative employee review. Elizabeth responds that they have legal grounds.",
+      "tags": [
+        "press",
+        "power"
+      ],
+      "conversation": "c065",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_034128",
+      "quote": "I am narrowing this down in CLIA. Down to 5 people.",
+      "related": [],
+      "heat": 3
+    },
+    {
+      "id": "tyler-legal-response",
+      "title": "Tyler, suspected sources, and legal action",
+      "description": "They name people they believe supplied information, allege trade-secret violations, and discuss letters and legal action. These are their claims in the messages.",
+      "tags": [
+        "press",
+        "power"
+      ],
+      "conversation": "c067",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_034249",
+      "quote": "Yeah. And we will also take legal action once this is behind us. Violating trade secrets is not ok.",
+      "related": [
+        "c071",
+        "c073",
+        "c075"
+      ],
+      "heat": 3
+    },
+    {
+      "id": "personal-questions-wsj",
+      "title": "Objecting to questions about their relationship",
+      "description": "While discussing suspected sources and possible legal responses, Sunny objects to the WSJ asking about their personal relationship. Elizabeth asks for his thoughts on how to handle it.",
+      "tags": [
+        "press",
+        "personal",
+        "power"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_034288",
+      "quote": "Shocking that this guy thinks he has the right to ask this question for wsj",
+      "related": [],
+      "conversation": "c067",
+      "heat": 2
+    },
+    {
+      "id": "support-on-the-record",
+      "title": "A promise to go on record",
+      "description": "After a meeting Sunny calls a “HOME RUN,” he says participants will publicly refute criticism. He and Elizabeth then discuss contacting a patient and obtaining releases.",
+      "tags": [
+        "press"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_037340",
+      "quote": "They will go on record with us to refute everything.",
+      "related": [],
+      "conversation": "c135",
+      "heat": 1
+    },
+    {
+      "id": "transition-break-even",
+      "title": "“I am responsible for everything at Theranos.”",
+      "description": "A tense discussion of Sunny’s possible transition mixes responsibility for the company, cash, disagreement over PR, and their relationship.",
+      "tags": [
+        "power",
+        "personal",
+        "money",
+        "alarm"
+      ],
+      "conversation": "c078",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_038586",
+      "quote": "I am responsible for everything at Theranos. All have been my decisions too.",
+      "related": [],
+      "heat": 3
+    },
+    {
+      "id": "recovered-inspection-document-language",
+      "title": "Document language during inspections",
+      "description": "Elizabeth asks that documents carry FOIA exemption wording and says Evan will send language for document responses and shipping records. The surrounding exchange discusses inspectors, CTNs, and reagents.",
+      "tags": [
+        "regulators",
+        "ops"
+      ],
+      "record": "DOJ_THER-2566752_012",
+      "quote": "All documents need to be labeled with foia exemption language",
+      "related": [],
+      "conversation": "c083",
+      "heat": 2
+    },
+    {
+      "id": "inspectors-three-sites",
+      "title": "Inspectors at all three sites",
+      "description": "They discuss how to describe nanotainers and reagents to inspectors. Elizabeth reports that all three sites received an inspector.",
+      "tags": [
+        "regulators",
+        "ops"
+      ],
+      "conversation": "c083",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_041148",
+      "quote": "All three sites today got an inspector and one of Courtney's deputies",
+      "related": [
+        "c085",
+        "c086",
+        "c088"
+      ],
+      "heat": 1
+    },
+    {
+      "id": "validation-dates",
+      "title": "Why do 2013 documents have current dates?",
+      "description": "Elizabeth asks for the original validation documents and a timeline showing which criteria applied in each year.",
+      "tags": [
+        "regulators",
+        "ops"
+      ],
+      "conversation": "c092",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_042042",
+      "quote": "Why do the 2013 validation documents have current dates",
+      "related": [],
+      "heat": 3
+    },
+    {
+      "id": "validation-reports",
+      "title": "“Our validation reports are terrible.”",
+      "description": "Sunny reports difficulty during a review. The following day, he says reports he expected to find in binders are missing; Elizabeth offers help.",
+      "tags": [
+        "regulators",
+        "ops",
+        "alarm"
+      ],
+      "conversation": "c094",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043161",
+      "quote": "Our validation reports are terrible. Really painful going thru this process. Same issues fda pointed out",
+      "related": [
+        "c095"
+      ],
+      "heat": 3
+    },
+    {
+      "id": "rather-be-with-you",
+      "title": "“I would rather be with you”",
+      "description": "After work and hiring updates and Elizabeth’s account of a meeting with Eric Lander, she tells Sunny she is constantly thinking about him. He replies that he misses her everywhere.",
+      "tags": [
+        "personal"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043612",
+      "quote": "I literally literally don't have a moment I'm not thinking of you or a person I meet that I don't think I would rather be with you",
+      "related": [],
+      "conversation": "c154",
+      "heat": 2
+    },
+    {
+      "id": "home-for-red-moon",
+      "title": "Home in time to see the red moon",
+      "description": "Sunny hopes they can watch the full red moon together. Elizabeth says she is coming home for him, and they arrange dinner and her arrival.",
+      "tags": [
+        "personal"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043713",
+      "quote": "I was hoping we would be together tonite. It is full moon and red moon.",
+      "related": [],
+      "conversation": "c156",
+      "heat": 1
+    },
+    {
+      "id": "management-thirty-percent",
+      "title": "“Running at 30% capacity”",
+      "description": "Sunny says willing helpers are available but management and focused direction are lacking. Elizabeth agrees and says it is time to activate that help.",
+      "tags": [
+        "ops",
+        "alarm"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043925",
+      "quote": "we are lacking management and lacking focused direction and therefore are running at 30% capacity",
+      "related": [],
+      "conversation": "c157",
+      "heat": 2
+    },
+    {
+      "id": "recovered-rupert-no-wsj",
+      "title": "A meeting with Rupert, without the WSJ",
+      "description": "Elizabeth reports a good meeting with Rupert and says they did not discuss the WSJ. Later in the exchange, she mentions a proposed investigative piece about information supplied by other labs.",
+      "tags": [
+        "press"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043990",
+      "quote": "No discussion on wsj",
+      "related": [],
+      "conversation": "c158",
+      "heat": 2
+    },
+    {
+      "id": "consultant-knew-audit",
+      "title": "How did the consultant know about the audit?",
+      "description": "Sunny reports that a consultant identified Theranos from a request for audit help that did not name the company. They speculate about the source, discuss CMS and CAP, and consider a complaint.",
+      "tags": [
+        "regulators",
+        "press"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_044472",
+      "quote": "Bsf said west coast lab and she said Theranos and audit and Gary and complaint",
+      "related": [],
+      "conversation": "c159",
+      "heat": 1
+    },
+    {
+      "id": "recovered-twitter-names",
+      "title": "Changing names in the Twitter response",
+      "description": "During their response to the WSJ article, Elizabeth suggests changing names so tweets do not look like they come from the same people. Sunny says each person will send eight tweets and offers to request non-GSR email addresses.",
+      "tags": [
+        "press"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_045944",
+      "quote": "Maybe they can also change names so doesn't look like same people",
+      "related": [],
+      "conversation": "c097",
+      "heat": 3
+    },
+    {
+      "id": "wsj-response",
+      "title": "The article is out: a statement and a TV exclusive",
+      "description": "After the message that JC’s article is out, they weigh wording about blood volume and discomfort, FDA and CMS concerns, and a Cramer exclusive.",
+      "tags": [
+        "press",
+        "regulators"
+      ],
+      "conversation": "c097",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_045968",
+      "quote": "Just worried about FDA and cms",
+      "related": [],
+      "heat": 2
+    },
+    {
+      "id": "walgreens-transparency",
+      "title": "What Walgreens learned from the media",
+      "description": "Sunny reports Walgreens’ anger over transparency. They discuss not telling the partner about a nanotainer change and how long it had been.",
+      "tags": [
+        "money",
+        "press",
+        "alarm",
+        "ops"
+      ],
+      "conversation": "c099",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_046098",
+      "quote": "Ok. Wag freaking out. Lack of transparency",
+      "related": [
+        "c097"
+      ],
+      "heat": 3
+    },
+    {
+      "id": "rosan-support-after-reporting",
+      "title": "Rosan offers support during the press response",
+      "description": "Jay Rosan asks what to tell callers and offers to help. He describes the reporting as an expected focus on quality and compares the situation with his experience at US Healthcare.",
+      "tags": [
+        "press",
+        "money"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_047272",
+      "quote": "True friends don't run away when things get tough.",
+      "related": [],
+      "conversation": "c100",
+      "heat": 1
+    },
+    {
+      "id": "fingerstick-claim",
+      "title": "Concern about “all fingersticks on our technology”",
+      "description": "After an appearance, Sunny flags Elizabeth’s comment. She replies that they can explain the facts to employees.",
+      "tags": [
+        "press",
+        "ops",
+        "alarm"
+      ],
+      "conversation": "c107",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_046185",
+      "quote": "Worried about your \"all fingersticks on our technology \" comment. Sent an email. The web document is fine.",
+      "related": [],
+      "heat": 3
+    },
+    {
+      "id": "reconsidering-wsj-response",
+      "title": "Could they have handled the WSJ differently?",
+      "description": "After relaying criticism of their PR, Sunny says they could have handled the WSJ differently from the start. Elizabeth agrees and asks whether that would have changed the reporting on Tyler’s disclosures.",
+      "tags": [
+        "press",
+        "power",
+        "alarm"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_047905",
+      "quote": "I think we could have handled wsj different from start b",
+      "related": [],
+      "conversation": "c167",
+      "heat": 2
+    },
+    {
+      "id": "venipuncture-first",
+      "title": "Venipuncture first, then fingerstick",
+      "description": "They discuss seeking clearance for venipuncture before using that cleared system as a predicate for fingerstick testing.",
+      "tags": [
+        "regulators",
+        "ops"
+      ],
+      "conversation": "c111",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_048380",
+      "quote": "Get Nanotainer and device cleared for venipuncture and then use our own cleared system as predicate for fingerstick",
+      "related": [],
+      "heat": 1
+    },
+    {
+      "id": "postpone-ads",
+      "title": "Pause the ads while quality is the focus",
+      "description": "Sunny argues against emphasizing price and affordability during scrutiny of quality. They discuss postponing ads and a print ad already at the presses.",
+      "tags": [
+        "press",
+        "alarm"
+      ],
+      "conversation": "c112",
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_048686",
+      "quote": "Looking at all the tv and Print ads. We should push them Out for few weeks. Not a good idea to talk about pricing and affordability given focus on our quality.",
+      "related": [],
+      "heat": 2
+    },
+    {
+      "id": "love-and-more-to-give",
+      "title": "Love and wanting to give more",
+      "description": "After declarations of love and a quotation attributed to Maya Angelou, Sunny says he could have done more and has more to give to Elizabeth and the world.",
+      "tags": [
+        "personal"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049369",
+      "quote": "I could have done so much more.",
+      "related": [],
+      "conversation": "c179",
+      "heat": 1
+    },
+    {
+      "id": "faith-science-june2016",
+      "title": "Faith and a plan to turn things around",
+      "description": "Sunny praises Elizabeth in religious terms and urges a focus on building the business through science, publications, and submissions. She agrees with the plan before discussing her trip to Washington.",
+      "tags": [
+        "personal",
+        "ops",
+        "regulators"
+      ],
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_050119",
+      "quote": "Your presence on earth is proof of God's presence.",
+      "related": [],
+      "conversation": "c198",
+      "heat": 2
+    }
+  ],
+  "conversation_aliases": {
+    "c053": "c052",
+    "c066": "c065",
+    "c084": "c083",
+    "c098": "c097"
+  },
+  "heat_scale": {
+    "1": "Context: background on the business or the relationship.",
+    "2": "Revealing: tension, pressure, or candor worth reading.",
+    "3": "Essential: an open admission of problems, managing critics or the press, or a defining personal moment.",
+    "note": "Internal ranking for the home feed. Not shown to readers."
+  },
+  "email_heat": {
+    "email-14103": 3,
+    "email-15054": 1,
+    "email-0871": 3,
+    "email-10468": 1,
+    "email-1176": 2,
+    "email-1323": 3,
+    "email-12593": 2,
+    "email-10628": 1,
+    "email-5408": 2,
+    "email-5704": 3,
+    "email-1675": 3
+  }
+}

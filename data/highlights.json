@@ -1,0 +1,16 @@
+[
+  {"type":"incident","id":"recovered-twitter-names","title":"Eight tweets each.","setup":"The Wall Street Journal story is out. They coordinate a response.","after":2},
+  {"type":"incident","id":"molded-you","title":"Taking credit","setup":"After Elizabeth gives a talk, Sunny weighs in on his influence.","after":0},
+  {"type":"email","id":"email-1675"},
+  {"type":"incident","id":"walgreens-transparency","title":"Walgreens finds out from the news","after":1},
+  {"type":"incident","id":"recovered-breeze-in-desert","title":"Breeze, water, ocean","setup":"In the middle of the business talk, a declaration of love.","after":2},
+  {"type":"email","id":"email-0871"},
+  {"type":"incident","id":"transition-break-even","title":"Who is responsible for Theranos?","after":2},
+  {"type":"incident","id":"validation-reports","title":"The reports are terrible","after":1},
+  {"type":"incident","id":"investor-destiny","title":"Investing in their destiny","after":2},
+  {"type":"email","id":"email-5408"},
+  {"type":"incident","id":"family-visits","after":1},
+  {"type":"email","id":"email-14103"},
+  {"type":"incident","id":"employee-review","after":1},
+  {"type":"email","id":"email-1323"}
+]

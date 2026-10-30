@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <!-- SEO_HEAD -->
+    <!-- READER_ASSETS -->
+  </head>
+  <body>
+    <a class="skip" href="#discover">Skip to exchanges</a>
+    <header class="bar">
+      <div class="bar-in">
+        <a class="brand" href="#" data-home aria-label="Theranotes home">
+          theranotes
+          <span id="curChapter">Inside Theranos, in their own words</span>
+        </a>
+        <button class="icon-btn" id="searchBtn" aria-label="Search messages" hidden>
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.8"
+            aria-hidden="true"
+          >
+            <circle cx="10.5" cy="10.5" r="6.5" />
+            <path d="m16 16 5 5" />
+          </svg>
+        </button>
+        <button
+          class="browse-button"
+          id="menuBtn"
+          aria-label="Browse the collection"
+          hidden
+          aria-controls="drawer"
+          aria-expanded="false"
+        >
+          Browse
+          <span aria-hidden="true">☰</span>
+        </button>
+      </div>
+    </header>
+    <main>
+      <div class="thread">
+        <!-- ARCHIVE_NAV -->
+        <section id="discover" aria-label="Selected exchanges"><!-- HOME_CONTENT --></section>
+        <section id="searchPanel" class="toolbar" aria-label="Search and filters" hidden>
+          <h1 class="search-title">Find something</h1>
+          <div>
+            <label class="search-label" for="search">Search the messages</label>
+            <div class="search-wrap">
+              <input
+                id="search"
+                type="search"
+                placeholder="Try “fingerstick” or “love”"
+                autocomplete="off"
+              />
+              <button id="clear" class="clear" type="button" hidden>Clear</button>
+            </div>
+          </div>
+          <div class="chips" id="filterChips" aria-label="Filter by theme"></div>
+          <p id="filterStatus" class="filter-status" role="status" aria-live="polite"></p>
+          <div id="searchSuggestions" class="search-suggestions">
+            <button data-search="love">Love</button>
+            <button data-search="Walgreens">Walgreens</button>
+            <button data-search="Tyler">Tyler</button>
+            <button data-search="FDA">FDA</button>
+            <button data-open-view="emails">Search emails ↗</button>
+          </div>
+        </section>
+        <div id="conversations"></div>
+        <p class="end-note" hidden>
+          End of the included records. A gap in the exhibit is not evidence that no messages were
+          exchanged.
+        </p>
+        <section id="endlessFeed" aria-label="More to read"></section>
+      </div>
+    </main>
+    <dialog class="drawer" id="drawer" aria-labelledby="drawerTitle">
+      <div class="dr-head">
+        <h3 id="drawerTitle">Explore Theranotes</h3>
+        <button class="icon-btn" id="closeBtn" aria-label="Close explorer">✕</button>
+      </div>
+      <nav class="index-nav" aria-label="Explorer views">
+        <button data-view="themes" aria-pressed="false" aria-controls="themesPanel">Themes</button>
+        <button data-view="incidents" aria-pressed="true" aria-controls="incidentsPanel">
+          Highlights
+        </button>
+        <button data-view="emails" aria-pressed="false" aria-controls="emailsPanel">Emails</button>
+        <button data-view="timeline" aria-pressed="false" aria-controls="timelinePanel">
+          Timeline
+        </button>
+      </nav>
+      <div class="dr-body" id="indexBody">
+        <section id="aboutPanel" aria-label="About the collection" hidden>
+          <p class="index-intro" id="stats"></p>
+          <div id="about" class="notes"></div>
+        </section>
+        <section id="themesPanel" aria-label="Themes" hidden>
+          <p class="index-intro">
+            Follow a theme across the exhibits. Expand a category for individual conversations or
+            browse its selected incidents.
+          </p>
+          <div id="themeIndex"></div>
+        </section>
+        <section id="incidentsPanel" aria-label="Incidents">
+          <p class="index-intro">
+            Selected moments from the messages, in date order. Titles and descriptions are
+            editorial; quotes preserve the text as printed. Each jump opens the passage in its full
+            conversation.
+          </p>
+          <div class="index-tools">
+            <label for="incidentSearch">Find an incident</label>
+            <input
+              type="search"
+              id="incidentSearch"
+              placeholder="Try Walgreens, Tyler, or validation"
+            />
+            <label for="incidentTheme">Theme</label>
+            <select id="incidentTheme"></select>
+          </div>
+          <p id="incidentStatus" class="filter-status" role="status" aria-live="polite"></p>
+          <div id="incidentIndex"></div>
+        </section>
+        <section id="timelinePanel" aria-label="Timeline" hidden>
+          <p id="timelineStatus" class="index-intro"></p>
+          <div id="toc"></div>
+        </section>
+        <section id="emailsPanel" aria-label="Email exchanges" hidden>
+          <p class="index-intro">
+            Inside the company: demonstrations, investor questions, lab concerns, and the pressure
+            to deliver. Each card opens the full exchange included in its source.
+          </p>
+          <div class="index-tools">
+            <label for="emailSearch">Find an email exchange</label>
+            <input type="search" id="emailSearch" placeholder="Try demo, investor, or quality" />
+            <label for="emailTheme">Theme</label>
+            <select id="emailTheme"></select>
+          </div>
+          <p id="emailStatus" class="filter-status" role="status" aria-live="polite"></p>
+          <div id="emailIndex"></div>
+          <details class="email-scope-details">
+            <summary>About this email selection</summary>
+            <p id="emailScope"></p>
+            <a href="data/emails.json" download>Email transcript JSON</a>
+          </details>
+        </section>
+      </div>
+      <div class="drawer-footer">
+        <button data-open-view="about">About &amp; sources</button>
+        <button id="themeBtn" aria-label="Switch to dark mode">◐ Appearance</button>
+      </div>
+    </dialog>
+    <dialog class="source-viewer" id="sourceViewer" aria-labelledby="sourceTitle">
+      <div class="source-head">
+        <h2 id="sourceTitle">
+          Original exhibit page
+          <small id="sourceCaption"></small>
+        </h2>
+        <button class="icon-btn" id="sourceClose" aria-label="Back to messages">✕</button>
+      </div>
+      <nav class="source-tools" aria-label="Exhibit page controls">
+        <button id="sourcePrev">← Previous</button>
+        <output id="sourcePage"></output>
+        <button id="sourceNext">Next →</button>
+        <button id="sourceZoom" aria-pressed="false">Zoom in</button>
+        <a id="sourcePDF">Open full PDF</a>
+      </nav>
+      <p class="source-status" id="sourceStatus" role="status">Loading original page…</p>
+      <div class="source-stage" id="sourceStage"><img id="sourceImage" alt="" /></div>
+    </dialog>
+    <noscript>
+      <p style="max-width: 620px; margin: 24px auto; padding: 16px">
+        Search needs JavaScript. You can read every
+        <a href="/texts/">text conversation</a>
+        and
+        <a href="/emails/">email exchange</a>
+        , or
+        <a href="/topics/">browse by topic</a>
+        , without it.
+      </p>
+    </noscript>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "name": "theranos-text-reader",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build_site.py",
+    "preview": "wrangler pages dev dist --ip 127.0.0.1",
+    "deploy": "wrangler pages deploy dist --project-name theranos-text-reader --branch main",
+    "check": "python3 scripts/validate_import.py",
+    "check:seo": "python3 scripts/validate_seo.py",
+    "test": "python3 -m unittest discover -s tests && node --test tests/*.test.cjs",
+    "check:clean": "python3 scripts/check_clean_build.py",
+    "format": "ruff format scripts tests && prettier --write \"src/**/*.{js,css,html}\" \"tests/*.cjs\" package.json .prettierrc.json .github/workflows/check.yml",
+    "lint": "ruff check scripts tests && ruff format --check scripts tests && prettier --check \"src/**/*.{js,css,html}\" \"tests/*.cjs\" package.json .prettierrc.json .github/workflows/check.yml"
+  },
+  "devDependencies": {
+    "prettier": "3.9.10",
+    "wrangler": "4.156.0"
+  },
+  "description": "A source-linked reading archive of Theranos texts and trial emails.",
+  "engines": {
+    "node": ">=24 <25"
+  }
+}

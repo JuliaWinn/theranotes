@@ -1,0 +1,269 @@
+{
+  "description": "Only these selected public copies may be rendered or published. Checksums identify the distributed PDFs, including editorial derivatives.",
+  "sources": [
+    {
+      "id": "5387A",
+      "label": "5387A",
+      "file": "exhibits/5387A.pdf",
+      "pages": 2,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387A/Trial%20Exh.%20%205387A%20-%20Texts.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387A-",
+      "sha256": "bb3a0a82b8d14d0b1f2bfa12fc60c1937d97d6e7e340707e1f3bf0fac1b0ea0a",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387B",
+      "label": "5387B",
+      "file": "exhibits/5387B.pdf",
+      "pages": 30,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387B/Trial%20Exh.%205387B%20Texts.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387B-",
+      "sha256": "7f8a34e79085465f5d2d359a164be824921c808a8b2d01b17593ece414ffbc74",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387C",
+      "label": "5387C",
+      "file": "exhibits/5387C.pdf",
+      "pages": 16,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387C/Trial%20Exh.%205387C%20Texts.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387C-",
+      "sha256": "46dc67e52d0cb5890ea1da71a566f0d3f130e13237a07947125db0ca89ed66fb",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387D",
+      "label": "5387D",
+      "file": "exhibits/5387D.pdf",
+      "pages": 124,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387D/Trial%20Exh.%205387D%20Texts.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387D-",
+      "sha256": "144df05fb3dcf457f0cabc41805689774ae3ad7c498d41dcc10e8ffbfefc95a4",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387E",
+      "label": "5387E",
+      "file": "exhibits/5387E.pdf",
+      "pages": 3,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387E/Trial%20Exh.%205387E%20Text%20Messages.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387E-",
+      "sha256": "89101e60be5044ade51d0b342a4523b3b8a1f82c044932cf38e61ac8f5c647a0",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387F",
+      "label": "5387F",
+      "file": "exhibits/5387F.pdf",
+      "pages": 12,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387F/Trial%20Exh.%205387F%20Text%20Messages.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387F-",
+      "sha256": "3416a8d0a98963d10a776598c8e39b147b04189b1e1c7b604d93eba2f0de0509",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387G",
+      "label": "5387G",
+      "file": "exhibits/5387G.pdf",
+      "pages": 8,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387G/Trial%20Exh.%205387G%20Text.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387G-",
+      "sha256": "d0ec1dc8437dcba18fed029d0570668d448feab63d501464b3b9c34d5bd63219",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387H",
+      "label": "5387H",
+      "file": "exhibits/5387H.pdf",
+      "pages": 129,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-00258_USA_v_Balwani/Trial%20Exh.%205387H%20Texts.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387H-",
+      "sha256": "8360d5904685d15e778bcfec7d4a24d91a6586a8207e181b2cc37311dc806973",
+      "render_dpi": 300
+    },
+    {
+      "id": "5387I",
+      "label": "5387I",
+      "file": "exhibits/5387I.pdf",
+      "pages": 14,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-00258_USA_v_Balwani/5387I-%20Text%20Messages.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/5387I-",
+      "sha256": "eccd4a9e3750069792613977b5cb56c74c4d0546fea782ce3c43e33115785756",
+      "render_dpi": 300
+    },
+    {
+      "id": "ECF-1005-4",
+      "label": "ECF-1005-4",
+      "file": "exhibits/additional/ECF-1005-4.pdf",
+      "pages": 6,
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1005.4.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/ECF-1005-4-",
+      "sha256": "a5e05ca9cf744b98e91370fb59c5197e473ecc435ddd99361b90de1e05951584",
+      "render_dpi": 300
+    },
+    {
+      "id": "ECF-1166-1",
+      "label": "ECF-1166-1",
+      "file": "exhibits/additional/ECF-1166-1.pdf",
+      "pages": 9,
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1166.1.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/ECF-1166-1-",
+      "sha256": "335d1e56682762246c4595e40ba04ec7453533af9b298fb6b8b2c9fe9634f420",
+      "render_dpi": 300
+    },
+    {
+      "id": "ECF-1072-3",
+      "label": "ECF-1072-3",
+      "file": "exhibits/public/ECF-1072-3.pdf",
+      "pages": 36,
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1072.3.pdf",
+      "public_copy_note": "Public reading copy: a bank PIN on PDF page 18 is omitted editorially in the transcript, page image, and downloadable copy. The original court file is retained locally. This omission is not a court redaction.",
+      "image_prefix": "exhibits/pages/ECF-1072-3-",
+      "sha256": "60ed0abbba281c446b7be09f1550d2d0b2f3582f525eb88d08a4bd17f92fbdb6",
+      "render_dpi": 300
+    },
+    {
+      "id": "ECF-723-2",
+      "label": "ECF-723-2",
+      "file": "exhibits/additional/ECF-723-2.pdf",
+      "pages": 2,
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.723.2.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/ECF-723-2-",
+      "sha256": "9835958f6c1bf285ee5ec5d0079273d0cab3666ef7863ba8045ac2be7b1361d6",
+      "render_dpi": 300
+    },
+    {
+      "id": "ECF-1019-3",
+      "label": "ECF-1019-3",
+      "file": "exhibits/additional/ECF-1019-3.pdf",
+      "pages": 9,
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1019.3.pdf",
+      "public_copy_note": "",
+      "image_prefix": "exhibits/pages/ECF-1019-3-",
+      "sha256": "93a929cdfeba124937acf05baaad121a09f3722226585b7bd9be167baea7fa30",
+      "render_dpi": 300
+    },
+    {
+      "id": "EMAIL-14103",
+      "label": "Trial exhibit 14103",
+      "file": "exhibits/emails/EMAIL-14103.pdf",
+      "pages": 2,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2014103/Trial%20Exh.%2014103%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-14103-",
+      "sha256": "83b6d1349f1c3d4d39ee3805d512c173f9ae14adce4c4c9c892808089ec89c54",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-15054",
+      "label": "Trial exhibit 15054",
+      "file": "exhibits/emails/EMAIL-15054.pdf",
+      "pages": 1,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2015054/Trial%20Exh.%2015054%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-15054-",
+      "sha256": "13b9619ef8d02ece933bba2afb2333bb283d7f831907db4dc1c7e67e7222c9d1",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-0871",
+      "label": "Trial exhibit 0871",
+      "file": "exhibits/emails/EMAIL-0871.pdf",
+      "pages": 2,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%200871/Trial%20Exh.%200871%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-0871-",
+      "sha256": "4e4e50f53ef6935d4633a4fb7671cf5ae7c02674a650c2b7e3c3dcfa634947d3",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-10468",
+      "label": "Trial exhibit 10468",
+      "file": "exhibits/emails/EMAIL-10468.pdf",
+      "pages": 2,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2010468/Trial%20Exh.%2010468%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-10468-",
+      "sha256": "d81a8431a73c17176cff0ba2081125b48cb606c499a334c16d7a31832f3eb887",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-1176",
+      "label": "Trial exhibit 1176",
+      "file": "exhibits/emails/EMAIL-1176.pdf",
+      "pages": 1,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%201176/Trial%20Exh.%201176%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-1176-",
+      "sha256": "0b0c77ab69bed7e0c93d3e8f5433c4679ac07c456132c985f5a71064fa4894e2",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-1323",
+      "label": "Trial exhibit 1323",
+      "file": "exhibits/emails/EMAIL-1323.pdf",
+      "pages": 2,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%201323/Trial%20Exh.%201323%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-1323-",
+      "sha256": "6abd6f36aa742f41bb83c08e51dc80595e23d6ddee14e05faeeeca00862ff0e7",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-12593",
+      "label": "Trial exhibit 12593",
+      "file": "exhibits/emails/EMAIL-12593.pdf",
+      "pages": 2,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2012593/Trial%20Exh.%2012593%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-12593-",
+      "sha256": "0eaec27423361cca546a6fd34e716e814b3d2e260a03507d756777881d23da04",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-10628",
+      "label": "Trial exhibit 10628",
+      "file": "exhibits/emails/EMAIL-10628.pdf",
+      "pages": 1,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2010628/Trial%20Exh.%2010628%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-10628-",
+      "sha256": "108cefd607242fe3d2b5db65b05e752bfd67f8190e716322922f464aceaf74b7",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-5408",
+      "label": "Trial exhibit 5408",
+      "file": "exhibits/emails/EMAIL-5408.pdf",
+      "pages": 1,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205408/Trial%20Exh.%205408%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-5408-",
+      "sha256": "7880d5129e419e9ea7283c6f6175d03cb0f2c8fa3268bea4c22431a917bc1f97",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-5704",
+      "label": "Trial exhibit 5704",
+      "file": "exhibits/emails/EMAIL-5704.pdf",
+      "pages": 1,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205704/Trial%20Exh.%205704%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-5704-",
+      "sha256": "d47972d0dfe5cc5faafe5046cd18bf3b275f975593dc2f589ec2f083313d812e",
+      "render_dpi": 200
+    },
+    {
+      "id": "EMAIL-1675",
+      "label": "Trial exhibit 1675",
+      "file": "exhibits/emails/EMAIL-1675.pdf",
+      "pages": 11,
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%201675/Trial%20Exh.%201675%20Email.pdf",
+      "image_prefix": "exhibits/pages/EMAIL-1675-",
+      "sha256": "e27162744eae1c12f5f95637fb23a3911415f61f2769a6fb66c228a867ba8e0c",
+      "render_dpi": 200
+    }
+  ]
+}

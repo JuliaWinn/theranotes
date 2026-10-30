@@ -1,0 +1,538 @@
+{
+  "source_rows": 4847,
+  "distinct_records": 2694,
+  "conversations": 201,
+  "pages_reviewed": 400,
+  "rows_per_exhibit": {
+    "5387A": 13,
+    "5387B": 293,
+    "5387C": 166,
+    "5387D": 1035,
+    "5387E": 3,
+    "5387F": 81,
+    "5387G": 224,
+    "5387H": 1106,
+    "5387I": 228,
+    "ECF-1005-4": 166,
+    "ECF-1166-1": 239,
+    "ECF-1019-3": 248,
+    "ECF-1072-3": 1003,
+    "ECF-723-2": 42
+  },
+  "new_records": 1133,
+  "additional_source_rows": 1698,
+  "uncertain_records": [
+    {
+      "record": "Holmes_MacBookAir_Skype_000089",
+      "source": "5387H-007-08",
+      "notes": [
+        "Protocol label V0: the final character may be the letter O in the scan."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_007410",
+      "source": "ECF-1166-1-001-04",
+      "notes": [
+        "Message area is blanked out in the source; no hidden content reconstructed."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_007479",
+      "source": "ECF-1166-1-002-01",
+      "notes": [
+        "The final sequence of x/o characters is indistinct in the source scan; transcribed as Xxoxxxxxx."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_019162",
+      "source": "5387I-012-04",
+      "notes": [
+        "6 heart-eyes faces transcribed from the monochrome printed emoji; original color/font cannot be recovered.",
+        "Six heart-eyes faces transcribed from the monochrome printed emoji; original color/font cannot be recovered."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_019918",
+      "source": "ECF-1019-3-006-13",
+      "notes": [
+        "7 heart-eyes faces transcribed from the monochrome printed emoji; original color/font cannot be recovered."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_020012",
+      "source": "ECF-1019-3-006-28",
+      "notes": [
+        "The source prints 1 boxed OBJ placeholder. The attachment path is visibly cut off in the source; the missing attachment content and path suffix are not reconstructed."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_031430",
+      "source": "ECF-1019-3-009-22",
+      "notes": [
+        "The source prints 6 boxed OBJ placeholders. The attachment path is visibly cut off in the source; the missing attachment content and path suffix are not reconstructed."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_031431",
+      "source": "ECF-1019-3-009-23",
+      "notes": [
+        "The source prints 6 boxed OBJ placeholders. The attachment path is visibly cut off in the source; the missing attachment content and path suffix are not reconstructed."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_031432",
+      "source": "ECF-1019-3-009-24",
+      "notes": [
+        "The source prints 6 boxed OBJ placeholders. The attachment path is visibly cut off in the source; the missing attachment content and path suffix are not reconstructed."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_032162",
+      "source": "ECF-1072-3-007-11",
+      "notes": [
+        "The message cell shows an attachment placeholder. Filename IMG_2054.JPG is legible; the complete attachment path is faint and is not reconstructed."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_032170",
+      "source": "ECF-1072-3-007-17",
+      "notes": [
+        "Two face emojis are printed; the first appears heart-eyed, but exact glyphs cannot be established from the scan."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_038797",
+      "source": "ECF-1072-3-016-27",
+      "notes": [
+        "The message consists of a single faint vertical glyph; the exact character is unclear in the printed scan."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_001",
+      "source": "ECF-723-2-002-01",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_002",
+      "source": "ECF-723-2-002-02",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_003",
+      "source": "ECF-723-2-002-03",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_004",
+      "source": "ECF-723-2-002-04",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_005",
+      "source": "ECF-723-2-002-05",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_006",
+      "source": "ECF-723-2-002-06",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_007",
+      "source": "ECF-723-2-002-07",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_008",
+      "source": "ECF-723-2-002-08",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_010",
+      "source": "ECF-723-2-002-10",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_011",
+      "source": "ECF-723-2-002-11",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_012",
+      "source": "ECF-723-2-002-12",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_013",
+      "source": "ECF-723-2-002-13",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_014",
+      "source": "ECF-723-2-002-14",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_015",
+      "source": "ECF-723-2-002-15",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_016",
+      "source": "ECF-723-2-002-16",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_017",
+      "source": "ECF-723-2-002-17",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_020",
+      "source": "ECF-723-2-002-20",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_021",
+      "source": "ECF-723-2-002-21",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_022",
+      "source": "ECF-723-2-002-22",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_023",
+      "source": "ECF-723-2-002-23",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_024",
+      "source": "ECF-723-2-002-24",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_025",
+      "source": "ECF-723-2-002-25",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_032",
+      "source": "ECF-723-2-002-32",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_037",
+      "source": "ECF-723-2-002-37",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_038",
+      "source": "ECF-723-2-002-38",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_039",
+      "source": "ECF-723-2-002-39",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_040",
+      "source": "ECF-723-2-002-40",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "DOJ_THER-2566752_042",
+      "source": "ECF-723-2-002-42",
+      "notes": [
+        "Editorial record ID: this source prints no device record ID."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043153",
+      "source": "ECF-1072-3-018-05",
+      "notes": [
+        "Editorial omission: the public filing prints a bank PIN in this message; the value is withheld from the reader."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043154",
+      "source": "ECF-1072-3-018-07",
+      "notes": [
+        "The remainder of the password message is obscured by a white redaction in the source image."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043578",
+      "source": "ECF-1072-3-020-08",
+      "notes": [
+        "Editorial description [inline image; unreadable in source] represents a tiny graphic that cannot be read in the filed page. The attachment path is visibly truncated after 948E-."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_043614",
+      "source": "ECF-1072-3-021-04",
+      "notes": [
+        "Editorial description [smiling face] represents the visible face glyph; exact Unicode character cannot be determined from the scan."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_044011",
+      "source": "ECF-1072-3-023-27",
+      "notes": [
+        "Scan blemish overlaps parts of major / have done / send; transcription reflects visible letter shapes but these words are less clear."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_045939",
+      "source": "ECF-1072-3-027-26",
+      "notes": [
+        "Printed message cell contains an attachment/object indicator, not message text. Attachment path is truncated in the source."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_046130",
+      "source": "ECF-1072-3-033-08",
+      "notes": [
+        "The character before C appears as 3 in the scan, but could be a degraded B."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_046136",
+      "source": "ECF-1072-3-033-17",
+      "notes": [
+        "Attachment/object indicator only. The printed path is truncated and its character after 458 is unclear."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_046756",
+      "source": "ECF-1072-3-033-18",
+      "notes": [
+        "Attachment/object indicator only. The printed path is truncated and its character after 4A5 is unclear."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_064778",
+      "source": "ECF-1166-1-003-04",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049320",
+      "source": "ECF-1166-1-004-07",
+      "notes": [
+        "A heart-shaped symbol is visible, but its exact emoji variant is unclear in the source scan."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049356",
+      "source": "ECF-1166-1-005-14",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049361",
+      "source": "ECF-1166-1-005-16",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049670",
+      "source": "ECF-1166-1-006-04",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049672",
+      "source": "ECF-1166-1-006-05",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049676",
+      "source": "ECF-1166-1-006-08",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049675",
+      "source": "ECF-1166-1-006-09",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049683",
+      "source": "ECF-1166-1-006-16",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049684",
+      "source": "ECF-1166-1-006-17",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049685",
+      "source": "ECF-1166-1-006-18",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049701",
+      "source": "ECF-1166-1-007-09",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049703",
+      "source": "ECF-1166-1-007-11",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049713",
+      "source": "ECF-1166-1-007-21",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049714",
+      "source": "ECF-1166-1-007-22",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049718",
+      "source": "ECF-1166-1-007-26",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049719",
+      "source": "ECF-1166-1-008-01",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049720",
+      "source": "ECF-1166-1-008-02",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049723",
+      "source": "ECF-1166-1-008-05",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049725",
+      "source": "ECF-1166-1-008-07",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049726",
+      "source": "ECF-1166-1-008-08",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049727",
+      "source": "ECF-1166-1-008-09",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049729",
+      "source": "ECF-1166-1-008-11",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    },
+    {
+      "record": "Holmes_iPhone_iMessage-MMS-SMS_049740",
+      "source": "ECF-1166-1-008-22",
+      "notes": [
+        "The source prints attachment placeholder symbols; attachment contents are not included. The printed file path is cut off after the trailing hyphen."
+      ]
+    }
+  ]
+}

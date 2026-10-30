@@ -1,0 +1,1339 @@
+{
+  "schema_version": 1,
+  "scope_note": "A curated selection of public trial-exhibit emails, not a complete mailbox. Each thread includes every substantive email body visible in its cited PDF. Quoted reply chains are presented oldest first; forwarded text appears once. Inline replies are separated by author with clearly marked editorial topic labels when necessary. Signatures, transport footers, email addresses, and confidentiality boilerplate are omitted. Source typos are retained; line wrapping is normalized. Attachments are included only when expressly stated. Timestamps retain the source timezone when stated; no timezone is inferred for other timestamps.",
+  "review_date": "2026-10-25",
+  "threads": [
+    {
+      "id": "email-14103",
+      "title": "An investor asks for numbers; Holmes offers an exit",
+      "summary": "Alan Eisenman asks for production figures, a shareholder meeting, and an IPO update. Holmes declines the requested metrics and communication schedule, citing retailer obligations, and urges him to consider a proposed investment exit.",
+      "themes": [
+        "money",
+        "power"
+      ],
+      "subject": "June quarterly update",
+      "date_start": "2010-05-03",
+      "date_end": "2010-05-11",
+      "participants": [
+        "Alan Eisenman",
+        "Elizabeth Holmes",
+        "Carolyn Balkenhol"
+      ],
+      "messages": [
+        {
+          "sender": "Alan Eisenman",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [
+            "Carolyn Balkenhol"
+          ],
+          "datetime_raw": "Monday, May 03, 2010 2:35 PM",
+          "datetime_iso": "2010-05-03T14:35:00",
+          "timezone_status": "not stated",
+          "text": "Elizabeth,\nCan we schedule our quarterly update the week of June 1-June4?\n\nSince it has been 2 months since we talked, and will probably be another month until we talk again, I was wondering if you could email me a response to the following items?\n\n1. You said that in March, you were manufacturing about 500,000 cartridges, and selling about 400,000 at about $80 per cartridge. Can you share the same statistics for April, and an estimate for May?\n\n2. Are you entertaining any thoughts of a shareholder's meeting? If so, when?\n\n3. Is there a possibility of an IPO in the foreseeable future. If so, when?\n\n4. Are there any other significant items that you can share before we have our quarterly update call?\n\nI hope all is well. I look forward to hearing from you.\n\nSincerely,\nAlan",
+          "source_pages": [
+            1,
+            2
+          ],
+          "id": "email-14103-01",
+          "subject": "June quarterly update",
+          "source_id": "EMAIL-14103",
+          "uncertain": false
+        },
+        {
+          "sender": "Alan Eisenman",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [],
+          "datetime_raw": "Monday, May 10, 2010 10:05 AM",
+          "datetime_iso": "2010-05-10T10:05:00",
+          "timezone_status": "not stated",
+          "text": "Would it be possible to get a response today? I have been trying since last Monday.\n\nThank you,\nAlan",
+          "source_pages": [
+            1
+          ],
+          "id": "email-14103-02",
+          "subject": "June quarterly update",
+          "source_id": "EMAIL-14103",
+          "uncertain": false
+        },
+        {
+          "sender": "Alan Eisenman",
+          "to": [
+            "Alan Eisenman",
+            "Elizabeth Holmes"
+          ],
+          "cc": [],
+          "datetime_raw": "Tuesday, May 11, 2010 8:12 AM",
+          "datetime_iso": "2010-05-11T08:12:00",
+          "timezone_status": "not stated",
+          "text": "",
+          "source_pages": [
+            1
+          ],
+          "kind": "forward",
+          "editorial_note": "Forwards the earlier request without adding a new body.",
+          "id": "email-14103-03",
+          "subject": "June quarterly update",
+          "source_id": "EMAIL-14103",
+          "uncertain": false
+        },
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "Alan Eisenman"
+          ],
+          "cc": [],
+          "datetime_raw": "Tue 5/11/2010 11:58:38 PM (UTC)",
+          "datetime_iso": "2010-05-11T23:58:38Z",
+          "timezone_status": "explicit",
+          "text": "Alan,\n\nI received your emails, and Carolyn just relayed to me the voicemail you left today. June is a tough month for us and I don’t know when we can do our next call. As you know, we don’t do quarterly calls with our other investors, many of whom invested much greater amounts than you did, and I cannot commit to an exact quarterly schedule going forward.\n\nAs discussed in our call in March, we cannot provide the level of communication you keep requesting.\n\nWith the deals we are formalizing with retailers we are now obligated not to disclose our production volumes and cartridge sale prices. I cannot provide the metrics you are requesting in your email.\n\nAt this point, we also don’t have any plans to do an IPO any time soon. In line with my comment above, we currently do not have a shareholders meeting on the calendar. I will be reaching out to all shareholders in the coming weeks to circulate the opportunity for liquidation I referenced on our last call with everyone.\n\nGiven your frustration level and our frustration level with this interaction, I strongly encourage you to re-consider the opportunity I presented on our last call to realize the return on your investment. We recognize you have been an investor for some time, and if we proceed with the transaction we are proposing we can provide you with a >5x return on your investment in Theranos.\n\nPlease let me know.\n\nElizabeth.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-14103-04",
+          "subject": "June quarterly update",
+          "source_id": "EMAIL-14103",
+          "uncertain": false
+        }
+      ],
+      "quote": "I cannot provide the metrics you are requesting in your email.",
+      "sources": [
+        {
+          "id": "EMAIL-14103",
+          "exhibit": "EMAIL-14103",
+          "trial_exhibit": "14103",
+          "label": "Trial exhibit 14103",
+          "local_file": "exhibits/emails/EMAIL-14103.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2014103/Trial%20Exh.%2014103%20Email.pdf",
+          "sha256": "83b6d1349f1c3d4d39ee3805d512c173f9ae14adce4c4c9c892808089ec89c54",
+          "pages": [
+            1,
+            2
+          ],
+          "bates": [
+            "HOLMES0018721",
+            "HOLMES0018722"
+          ]
+        }
+      ],
+      "notes": [
+        "The production and sales figures are Eisenman’s description of a prior conversation; this exchange does not independently verify them."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 4
+    },
+    {
+      "id": "email-15054",
+      "title": "Confidentiality even inside a team",
+      "summary": "Holmes asks David Doyle to draft a trade-secret policy for team leads, including extra confidentiality around methods the company would not patent. Doyle agrees to prepare it.",
+      "themes": [
+        "power",
+        "ops"
+      ],
+      "subject": "trade secret policy",
+      "date_start": "2012-04-09",
+      "date_end": "2012-04-09",
+      "participants": [
+        "Elizabeth Holmes",
+        "David Doyle",
+        "Sunny Balwani"
+      ],
+      "messages": [
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "David Doyle"
+          ],
+          "cc": [
+            "Sunny Balwani"
+          ],
+          "datetime_raw": "Monday, April 09, 2012 1:00 PM",
+          "datetime_iso": "2012-04-09T13:00:00",
+          "timezone_status": "not stated",
+          "text": "David.\nWe need to create a concise document on Theranos’ trade secret policy for our team leads. In essence, this document should highlight the extra confidentiality procedures (even inside a given team) that need to be in place around methodologies that we won’t patent that solve complex challenges. Please take a pass at this and send it over,\nElizabeth.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-15054-01",
+          "subject": "trade secret policy",
+          "source_id": "EMAIL-15054",
+          "uncertain": false
+        },
+        {
+          "sender": "David Doyle",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [
+            "Sunny Balwani"
+          ],
+          "datetime_raw": "Mon 4/9/2012 8:01:19 PM (UTC)",
+          "datetime_iso": "2012-04-09T20:01:19Z",
+          "timezone_status": "explicit",
+          "text": "OK, I will put something together. Thanks.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-15054-02",
+          "subject": "trade secret policy",
+          "source_id": "EMAIL-15054",
+          "uncertain": false
+        }
+      ],
+      "quote": "the extra confidentiality procedures (even inside a given team)",
+      "sources": [
+        {
+          "id": "EMAIL-15054",
+          "exhibit": "EMAIL-15054",
+          "trial_exhibit": "15054",
+          "label": "Trial exhibit 15054",
+          "local_file": "exhibits/emails/EMAIL-15054.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2015054/Trial%20Exh.%2015054%20Email.pdf",
+          "sha256": "13b9619ef8d02ece933bba2afb2333bb283d7f831907db4dc1c7e67e7222c9d1",
+          "pages": [
+            1
+          ],
+          "bates": [
+            "HOLMES0019286"
+          ]
+        }
+      ],
+      "notes": [],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 2
+    },
+    {
+      "id": "email-0871",
+      "title": "The minilab is not ready for the demo",
+      "summary": "A team prepares devices for an executive-meeting demonstration. Daniel Young says the minilab’s general chemistry and ELISA assays are not performing adequately for the demo; Balwani forwards the exchange to Holmes with “Very frustrating.”",
+      "themes": [
+        "alarm",
+        "ops",
+        "power"
+      ],
+      "subject": "demo next tuesday (6/11) @ noon",
+      "date_start": "2013-06-06",
+      "date_end": "2013-06-11",
+      "participants": [
+        "Christian Holmes",
+        "Daniel Young",
+        "Samartha Anekal",
+        "Daniel Edlin",
+        "Michael Craig",
+        "Sunny Balwani",
+        "Jeffrey Blickman",
+        "Elizabeth Holmes"
+      ],
+      "messages": [
+        {
+          "sender": "Christian Holmes",
+          "to": [
+            "Daniel Young",
+            "Samartha Anekal"
+          ],
+          "cc": [
+            "Daniel Edlin"
+          ],
+          "datetime_raw": "Thursday, June 06, 2013 10:03 PM",
+          "datetime_iso": "2013-06-06T22:03:00",
+          "timezone_status": "not stated",
+          "text": "Daniel and Sam – Sunny mentioned that he’d like to run a demo during an exec meeting next Tuesday (runs from 12-2 PM in our office here). He didn’t mention specific tests or devices, and said that we can run whatever panel the team thinks is best (so assume CBC or something common). This is a bit vague at this point but wanted to put it on your radar. We’ll follow up with additional info as we get it.\n\nThanks",
+          "source_pages": [
+            2
+          ],
+          "id": "email-0871-01",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Daniel Young",
+          "to": [
+            "Christian Holmes",
+            "Samartha Anekal"
+          ],
+          "cc": [
+            "Daniel Edlin"
+          ],
+          "datetime_raw": "Thursday, June 06, 2013 10:04 PM",
+          "datetime_iso": "2013-06-06T22:04:00",
+          "timezone_status": "not stated",
+          "text": "Sure. Any preference for device type (monobay, minilab, 4s)?",
+          "source_pages": [
+            2
+          ],
+          "id": "email-0871-02",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Christian Holmes",
+          "to": [
+            "Daniel Young",
+            "Samartha Anekal"
+          ],
+          "cc": [
+            "Daniel Edlin"
+          ],
+          "datetime_raw": "Thursday, June 06, 2013 10:06 PM",
+          "datetime_iso": "2013-06-06T22:06:00",
+          "timezone_status": "not stated",
+          "text": "No preference – whatever you think is best for the panel/tests that are chosen",
+          "source_pages": [
+            2
+          ],
+          "id": "email-0871-03",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Daniel Edlin",
+          "to": [
+            "Christian Holmes",
+            "Daniel Young",
+            "Samartha Anekal"
+          ],
+          "cc": [],
+          "datetime_raw": "Thursday, June 06, 2013 10:08 PM",
+          "datetime_iso": "2013-06-06T22:08:00",
+          "timezone_status": "not stated",
+          "text": "Just caught up with Sunny. He definitely wants to have a minilab, and then either a 4s or monobay (whichever is working better)\n\nThanks",
+          "source_pages": [
+            2
+          ],
+          "id": "email-0871-04",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Christian Holmes",
+          "to": [
+            "Daniel Edlin",
+            "Daniel Young",
+            "Samartha Anekal"
+          ],
+          "cc": [],
+          "datetime_raw": "Thursday, June 06, 2013 10:09 PM",
+          "datetime_iso": "2013-06-06T22:09:00",
+          "timezone_status": "not stated",
+          "text": "Thanks – about 20 minutes ago he said he didn’t care ☺ good to know",
+          "source_pages": [
+            2
+          ],
+          "id": "email-0871-05",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Daniel Edlin",
+          "to": [
+            "Christian Holmes",
+            "Daniel Young",
+            "Samartha Anekal",
+            "Michael Craig"
+          ],
+          "cc": [
+            "Sunny Balwani",
+            "Jeffrey Blickman"
+          ],
+          "datetime_raw": "Monday, June 10, 2013 6:47 PM",
+          "datetime_iso": "2013-06-10T18:47:00",
+          "timezone_status": "not stated",
+          "text": "Hi all,\n\nFor tomorrow’s demo, as listed below, we’d like to have a minilab, and either a 4s or monobay, with the Normandy shell uploaded (whichever works better).\n\nDaniel/Sam – can you please let Michael know which devices are going to be used and please also let him know if the personalization file has been uploaded to the cloud?\n\nSam indicated that the devices are capable of running a CBC. Michael can you please run 5 practice tests on each device to make sure that they are able to do so.\n\nPlease let me know if you have any questions. All devices will need to be set up in interview room #1 (standard demo room) by 10AM (not noon) tomorrow.\n\nThanks,\nDan",
+          "source_pages": [
+            1,
+            2
+          ],
+          "id": "email-0871-06",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Michael Craig",
+          "to": [
+            "Daniel Edlin",
+            "Christian Holmes",
+            "Daniel Young",
+            "Samartha Anekal"
+          ],
+          "cc": [
+            "Sunny Balwani",
+            "Jeffrey Blickman"
+          ],
+          "datetime_raw": "Monday, June 10, 2013 7:47 PM",
+          "datetime_iso": "2013-06-10T19:47:00",
+          "timezone_status": "not stated",
+          "text": "FYI: I’ve just finished getting the DeviceOS installed (with the Normandy app), and properly running the Null protocol, on Mobilelabs 4 and 8.\n\nThanks,\nMichael.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-0871-07",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Daniel Young",
+            "Daniel Edlin"
+          ],
+          "cc": [],
+          "datetime_raw": "Monday, June 10, 2013 8:35 PM",
+          "datetime_iso": "2013-06-10T20:35:00",
+          "timezone_status": "not stated",
+          "text": "Given ML doesn’t have cyto, what are we planning on running on ML?",
+          "source_pages": [
+            1
+          ],
+          "id": "email-0871-08",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Daniel Young",
+          "to": [
+            "Sunny Balwani",
+            "Daniel Edlin"
+          ],
+          "cc": [],
+          "datetime_raw": "June 10, 2013 10:39:43 PM PDT",
+          "datetime_iso": "2013-06-10T22:39:43-07:00",
+          "timezone_status": "explicit",
+          "text": "Right now, we are not planning on running anything on the ML, unfortunately. The general chemistry and ELISA assays are not performing adequately for a demo at the moment.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-0871-09",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        },
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [],
+          "datetime_raw": "Tue 6/11/2013 5:45:04 AM",
+          "datetime_iso": "2013-06-11T05:45:04",
+          "timezone_status": "not stated",
+          "text": "Very frustrating",
+          "source_pages": [
+            1
+          ],
+          "kind": "forward",
+          "id": "email-0871-10",
+          "subject": "demo next tuesday (6/11) @ noon",
+          "source_id": "EMAIL-0871",
+          "uncertain": false
+        }
+      ],
+      "quote": "The general chemistry and ELISA assays are not performing adequately for a demo at the moment.",
+      "sources": [
+        {
+          "id": "EMAIL-0871",
+          "exhibit": "EMAIL-0871",
+          "trial_exhibit": "0871",
+          "label": "Trial exhibit 0871",
+          "local_file": "exhibits/emails/EMAIL-0871.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%200871/Trial%20Exh.%200871%20Email.pdf",
+          "sha256": "4e4e50f53ef6935d4633a4fb7671cf5ae7c02674a650c2b7e3c3dcfa634947d3",
+          "pages": [
+            1,
+            2
+          ],
+          "bates": [
+            "TS-0902539",
+            "TS-0902540"
+          ]
+        }
+      ],
+      "notes": [
+        "The top-level export timestamp has no stated timezone; the forwarded Daniel Young message explicitly says PDT. Message order follows the quoted reply chain."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 10
+    },
+    {
+      "id": "email-10468",
+      "title": "Checking the claim about fresher samples",
+      "summary": "During preparation of the website, Holmes asks whether a proposed sample-decay graph assumes refrigeration. Young says it does not; Holmes asks for the graph to reflect current practice so the claim is accurate.",
+      "themes": [
+        "press",
+        "ops"
+      ],
+      "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+      "date_start": "2013-08-29",
+      "date_end": "2013-08-30",
+      "participants": [
+        "Daniel Edlin",
+        "Elizabeth Holmes",
+        "Christian Holmes",
+        "Jeffrey Blickman",
+        "Daniel Young"
+      ],
+      "messages": [
+        {
+          "sender": "Daniel Edlin",
+          "to": [],
+          "cc": [],
+          "datetime_raw": "Aug 29, 2013, at 5:34 PM",
+          "datetime_iso": "2013-08-29T17:34:00",
+          "timezone_status": "not stated",
+          "text": "Hi Elizabeth,\n\nI’ve attached some options for a graph to illustrate the “Better Data From Fresher Samples” piece of .COM. Note that we would only include the graph itself and not the title/header of each slide. The website COMP is included as well.\n\nPlease let us know if you have any comments on this. We’ll need to send feedback on this to Chiat tonight in order for this to be included in the file hand-off scheduled for tomorrow.\n\nThanks,\nDan",
+          "source_pages": [
+            1,
+            2
+          ],
+          "attachments": [
+            "Analyte decay.ppt",
+            "_-V.3-Providers---Our-Lab-8up.jpg"
+          ],
+          "editorial_note": "The quoted header names the sender but does not reproduce a To field.",
+          "id": "email-10468-01",
+          "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+          "source_id": "EMAIL-10468",
+          "uncertain": false
+        },
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "Daniel Edlin"
+          ],
+          "cc": [
+            "Christian Holmes",
+            "Jeffrey Blickman",
+            "Daniel Young"
+          ],
+          "datetime_raw": "8/29/2013 9:01 PM",
+          "datetime_iso": "2013-08-29T21:01:00",
+          "timezone_status": "not stated",
+          "text": "Daniel: are you saying 2 hours from the time it becomes serum in the below graph",
+          "source_pages": [
+            1
+          ],
+          "id": "email-10468-02",
+          "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+          "source_id": "EMAIL-10468",
+          "uncertain": false
+        },
+        {
+          "sender": "Daniel Young",
+          "to": [],
+          "cc": [],
+          "datetime_raw": "Aug 29, 2013, at 9:05 PM",
+          "datetime_iso": "2013-08-29T21:05:00",
+          "timezone_status": "not stated",
+          "text": "From the time of sample collection. The decay rate I used is based on the physiologic decay rate. With refrigeration, the decay rate will slow a little.",
+          "source_pages": [
+            1
+          ],
+          "editorial_note": "The quoted header does not reproduce a To field.",
+          "id": "email-10468-03",
+          "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+          "source_id": "EMAIL-10468",
+          "uncertain": false
+        },
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "Daniel Young"
+          ],
+          "cc": [
+            "Daniel Edlin",
+            "Christian Holmes",
+            "Jeffrey Blickman"
+          ],
+          "datetime_raw": "8/29/2013 9:06 PM",
+          "datetime_iso": "2013-08-29T21:06:00",
+          "timezone_status": "not stated",
+          "text": "Does this assume refrigeration?",
+          "source_pages": [
+            1
+          ],
+          "id": "email-10468-04",
+          "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+          "source_id": "EMAIL-10468",
+          "uncertain": false
+        },
+        {
+          "sender": "Daniel Young",
+          "to": [],
+          "cc": [],
+          "datetime_raw": "Aug 29, 2013, at 9:07 PM",
+          "datetime_iso": "2013-08-29T21:07:00",
+          "timezone_status": "not stated",
+          "text": "It does not.",
+          "source_pages": [
+            1
+          ],
+          "editorial_note": "The quoted header does not reproduce a To field.",
+          "id": "email-10468-05",
+          "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+          "source_id": "EMAIL-10468",
+          "uncertain": false
+        },
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "Daniel Young"
+          ],
+          "cc": [
+            "Daniel Edlin",
+            "Christian Holmes",
+            "Jeffrey Blickman"
+          ],
+          "datetime_raw": "Fri 8/30/2013 4:11:43 AM (UTC)",
+          "datetime_iso": "2013-08-30T04:11:43Z",
+          "timezone_status": "explicit",
+          "text": "If they currently do refrigerate then we should reflect that so we are making an accurate claim.\n\nOtherwise we'll use the 4 hour window graph.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-10468-06",
+          "subject": "Analyte Decay Graph for .COM - Feedback needed tonight",
+          "source_id": "EMAIL-10468",
+          "uncertain": false
+        }
+      ],
+      "quote": "If they currently do refrigerate then we should reflect that so we are making an accurate claim.",
+      "sources": [
+        {
+          "id": "EMAIL-10468",
+          "exhibit": "EMAIL-10468",
+          "trial_exhibit": "10468",
+          "label": "Trial exhibit 10468",
+          "local_file": "exhibits/emails/EMAIL-10468.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2010468/Trial%20Exh.%2010468%20Email.pdf",
+          "sha256": "d81a8431a73c17176cff0ba2081125b48cb606c499a334c16d7a31832f3eb887",
+          "pages": [
+            1,
+            2
+          ],
+          "bates": [
+            "HOLMES0018355",
+            "HOLMES0018356"
+          ]
+        }
+      ],
+      "notes": [
+        "The source reproduces attachment names, not the graph or image contents. They are not transcribed as part of this thread."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 6
+    },
+    {
+      "id": "email-1176",
+      "title": "“They should be here on weekends”",
+      "summary": "Balwani proposes how to allocate the ELISA team, presses for thyroid and fertility panels to be completed, and says new hires are expected to work 55–60 hours and weekends.",
+      "themes": [
+        "power",
+        "ops"
+      ],
+      "subject": "teams",
+      "date_start": "2013-10-15",
+      "date_end": "2013-10-15",
+      "participants": [
+        "Sunny Balwani",
+        "Sharada Sivaraman",
+        "Ran Hu",
+        "Suraj Saksena"
+      ],
+      "messages": [
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Sharada Sivaraman",
+            "Ran Hu"
+          ],
+          "cc": [
+            "Suraj Saksena"
+          ],
+          "datetime_raw": "Tue 10/15/2013 10:24:43 PM",
+          "datetime_iso": "2013-10-15T22:24:43",
+          "timezone_status": "not stated",
+          "text": "With the addition of 3 Lab Associates this week and 2 more joining by Friday, the total headcount dedicated to ELISA now will be 30 (including 2 of you).\n\nI would like to split the team in 3 members of 10 each next week or week after if you think there is enough leadership to get this done in 3 teams in parallel OR move 6-8 people back to Binders in 2 weeks.\n\nMy preference is have all 30 people on ELISA and move much much faster so we get the Thyroid panel and Fertility panels completed this month or by 11/10 at the latest per our plan.\n\nAt the very least, the new hires are coming in with expectation that they will work 55-60 hours and I want to make sure that happens. They should be here on weekends to go thru precision runs or other work required to keep the momentum going.\n\nWe can discuss this in person if you wish.\n\nCore ELISA Team\n1. Sharada\n2. Ran\n3. Amy\n4. Ling\n5. Salina\n6. Emma\n7. Nahal\n8. Tiffany\n9. Michelle\n10. Nili J\n11. Uyen\n12. Samantha\n13. Darren\n14. Andrew Kim\n\nNew ELISA\n15. Melissa\n16. Jamie Liu\n17. Erika Cheung\n\nBinders\n18. Suraj\n19. Aruna\n20. Jorge\n21. Pradeep\n22. Hui Wang\n23. Ling Meng\n24. Yanli\n25. Mihcael Humburt\n26. Jerzey\n27. Tracey young\n28. Tyler Schultz\n\nNew hires Friday:\n+2 starting this week.",
+          "source_pages": [
+            1
+          ],
+          "id": "email-1176-01",
+          "subject": "teams",
+          "source_id": "EMAIL-1176",
+          "uncertain": false
+        }
+      ],
+      "quote": "They should be here on weekends to go thru precision runs or other work required to keep the momentum going.",
+      "sources": [
+        {
+          "id": "EMAIL-1176",
+          "exhibit": "EMAIL-1176",
+          "trial_exhibit": "1176",
+          "label": "Trial exhibit 1176",
+          "local_file": "exhibits/emails/EMAIL-1176.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%201176/Trial%20Exh.%201176%20Email.pdf",
+          "sha256": "0b0c77ab69bed7e0c93d3e8f5433c4679ac07c456132c985f5a71064fa4894e2",
+          "pages": [
+            1
+          ],
+          "bates": [
+            "TS-0044857"
+          ]
+        }
+      ],
+      "notes": [
+        "This exhibit contains one email; no reply is included. Team-list spellings are preserved as printed."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 1
+    },
+    {
+      "id": "email-1323",
+      "title": "Erika Cheung flags failing quality controls",
+      "summary": "Cheung asks Ran Hu for help after quality controls still fail with an updated range and bias correction. Hu confirms the level-2 value failed and asks about patient samples; Cheung says there is no patient sample that night.",
+      "themes": [
+        "alarm",
+        "ops"
+      ],
+      "subject": "QCs failing with updated Range",
+      "date_start": "2013-12-10",
+      "date_end": "2013-12-11",
+      "participants": [
+        "Erika Cheung",
+        "Ran Hu",
+        "Sharada Sivaraman"
+      ],
+      "messages": [
+        {
+          "sender": "Erika Cheung",
+          "to": [
+            "Ran Hu"
+          ],
+          "cc": [
+            "Sharada Sivaraman"
+          ],
+          "datetime_raw": "Tuesday, December 10, 2013 9:51 PM",
+          "datetime_iso": "2013-12-10T21:51:00",
+          "timezone_status": "not stated",
+          "text": "Hi Ran,\n\nI received the new range from Sarah with the bias correction, but the QCs are still failing. It could be an issue of me inserting the information into the spreadsheet the wrong way. I attached my test file that I’ve been using to update the dexter and QC information. I figured it was best to consult you first to figure out what is going on.\n\nHere is the new reference range that Sarah sent me:\n\nLevel 1: Mean 11.78; 1 SD 4.622866; 2 SD 9.245731; Low 2.53; High 21.02\nLevel 2: Mean 44.264; 1 SD 4.790625; 2 SD 9.58125; Low 34.683; High 53.845\n\nThanks,\nErika",
+          "source_pages": [
+            1
+          ],
+          "editorial_note": "The two-row reference-range table is presented as labeled text; all five column headings and values are retained.",
+          "id": "email-1323-01",
+          "subject": "QCs failing with updated Range",
+          "source_id": "EMAIL-1323",
+          "uncertain": false
+        },
+        {
+          "sender": "Ran Hu",
+          "to": [
+            "Erika Cheung"
+          ],
+          "cc": [
+            "Sharada Sivaraman"
+          ],
+          "datetime_raw": "Tuesday, December 10, 2013 10:14 PM",
+          "datetime_iso": "2013-12-10T22:14:00",
+          "timezone_status": "not stated",
+          "text": "Hi Erika,\n\nDo you have any patient sample tonight? If yes, please re-run level-2 first.\n\nBy looking at the new range, the corrected value of level 2 did fail. I checked the file but haven’t figured out how the formula works. If you don’t have sample today, we may work on the file together tomorrow.\n\nThanks,\nRan",
+          "source_pages": [
+            1
+          ],
+          "id": "email-1323-02",
+          "subject": "QCs failing with updated Range",
+          "source_id": "EMAIL-1323",
+          "uncertain": false
+        },
+        {
+          "sender": "Erika Cheung",
+          "to": [
+            "Ran Hu"
+          ],
+          "cc": [],
+          "datetime_raw": "Wed 12/11/2013 7:24:54 AM",
+          "datetime_iso": "2013-12-11T07:24:54",
+          "timezone_status": "not stated",
+          "text": "Hi Ran,\n\nThere is no patient sample tonight, so we are okay for now. There is someone scheduled to have a Vitamin D test tomorrow, but that may be for CLIA not us. I’ll try to come a bit earlier to work with you on this.\n\nThanks,\nErika",
+          "source_pages": [
+            1
+          ],
+          "id": "email-1323-03",
+          "subject": "QCs failing with updated Range",
+          "source_id": "EMAIL-1323",
+          "uncertain": false
+        }
+      ],
+      "quote": "I received the new range from Sarah with the bias correction, but the QCs are still failing.",
+      "sources": [
+        {
+          "id": "EMAIL-1323",
+          "exhibit": "EMAIL-1323",
+          "trial_exhibit": "1323",
+          "label": "Trial exhibit 1323",
+          "local_file": "exhibits/emails/EMAIL-1323.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%201323/Trial%20Exh.%201323%20Email.pdf",
+          "sha256": "6abd6f36aa742f41bb83c08e51dc80595e23d6ddee14e05faeeeca00862ff0e7",
+          "pages": [
+            1,
+            2
+          ],
+          "bates": [
+            "THPFM0000170861",
+            "THPFM0000170862"
+          ]
+        }
+      ],
+      "notes": [
+        "Page 2 is blank except for its Bates number. The referenced test-file attachment is not included in this PDF."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 3
+    },
+    {
+      "id": "email-12593",
+      "title": "A dispute over who should see proficiency-test data",
+      "summary": "Balwani asks lab leaders for a presentation explaining their proficiency-testing process and objects to data being sent to junior technicians. Rosendorff replies that he has amended the procedure and will help present it. Balwani forwards the exchange to Holmes.",
+      "themes": [
+        "power",
+        "alarm",
+        "regulators",
+        "ops"
+      ],
+      "subject": "PT Plan & Communication",
+      "date_start": "2014-04-12",
+      "date_end": "2014-04-12",
+      "participants": [
+        "Sunny Balwani",
+        "Mark Pandori",
+        "Adam Rosendorff",
+        "Elizabeth Holmes"
+      ],
+      "messages": [
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Mark Pandori"
+          ],
+          "cc": [
+            "Adam Rosendorff"
+          ],
+          "datetime_raw": "4/12/2014 10:17 AM",
+          "datetime_iso": "2014-04-12T10:17:00",
+          "timezone_status": "not stated",
+          "text": "Mark.\n\nPer our conversation from this week, I would like a communications plan clearly documented on how we do AAP for PT. The SOP for this has always been in place, but you mentioned you didn’t know about this until this week and now that you have read it, you wanted to add few minor clarifying details to this. Please correct me if I misunderstood this.\n\nMore importantly though, I want our AAP SOP process in a powerpoint in which this could be easily explained and understood by others in CLIA. Here is why:\n\nInitially because of wrong decisions around vitamin D PT samples from earlier this year, including comments that were made by either CLIA lab management or others in CLIA around our PT process, there is confusion around how PT on our process will be done and should be done. On top of that, Langley went and mailed the initial TSH and FT4 5 patient study runs data to junior technicians in CLIA who don’t have the background or the understanding to properly interpret the data. This is now creating a toxic environment and some junior CLIA team members are communicating to people outside CLIA that our PT process is either wrong or not in place, both are inaccurate. This needs to be addressed this week by you and Adam.\n\nPlease prepare this powerpoint that explains to the CLIA staff what PT is, how we will do PT and why so we can get the CLIA team on the same page. It is also critical that CLIA lab members who don’t understand this come and ask you and Adam for guidance or questions. Creating confusion and miscommunication around CLIA processes and SOPs is not acceptable and I would like for you to mention that in the team meeting and put an end to that.\n\nI am spending a lot of time on CLIA related issues like understanding the FT4 and TSH over-recovery (we will solve this problem in matter of days, we are close), LIS and QC software, process, procedures and support personnel for CLIA and will continue to do so. What I don’t want to spend time on and want you and Adam to spend time on are these communication issues. This is a small team and must be tightly managed. If there are problem areas in this team then please let me know in real time.\n\nPlease send me this slide deck when ready so I can review this with others in the team, provide feedback and then by end of week or sooner, and then you can meet with CLIA team and go over the deck and answer their questions and put the PT discussion to rest once and for all.\n\nThanks.",
+          "source_pages": [
+            1,
+            2
+          ],
+          "id": "email-12593-01",
+          "subject": "PT Plan & Communication",
+          "source_id": "EMAIL-12593",
+          "uncertain": false
+        },
+        {
+          "sender": "Adam Rosendorff",
+          "to": [
+            "Sunny Balwani",
+            "Mark Pandori"
+          ],
+          "cc": [],
+          "datetime_raw": "April 12, 2014 at 10:25:32 AM PDT",
+          "datetime_iso": "2014-04-12T10:25:32-07:00",
+          "timezone_status": "explicit",
+          "text": "Sunny\n\nI have modified the SOP to reflect our current AAP procedure (minor changes) and added a section on acceptance criteria and corrective actions.\n\nMark and I will put together a PPT that we can communicate in our CLIA general meeting.\n\nI agree that misconceptions around this need to be dispelled.\n\nAdam",
+          "source_pages": [
+            1
+          ],
+          "id": "email-12593-02",
+          "subject": "PT Plan & Communication",
+          "source_id": "EMAIL-12593",
+          "uncertain": false
+        },
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [],
+          "datetime_raw": "Sat 4/12/2014 6:00:25 PM",
+          "datetime_iso": "2014-04-12T18:00:25",
+          "timezone_status": "not stated",
+          "text": "",
+          "source_pages": [
+            1
+          ],
+          "kind": "forward",
+          "editorial_note": "Forwards the exchange without adding a new body.",
+          "id": "email-12593-03",
+          "subject": "PT Plan & Communication",
+          "source_id": "EMAIL-12593",
+          "uncertain": false
+        }
+      ],
+      "quote": "Creating confusion and miscommunication around CLIA processes and SOPs is not acceptable",
+      "sources": [
+        {
+          "id": "EMAIL-12593",
+          "exhibit": "EMAIL-12593",
+          "trial_exhibit": "12593",
+          "label": "Trial exhibit 12593",
+          "local_file": "exhibits/emails/EMAIL-12593.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2012593/Trial%20Exh.%2012593%20Email.pdf",
+          "sha256": "0eaec27423361cca546a6fd34e716e814b3d2e260a03507d756777881d23da04",
+          "pages": [
+            1,
+            2
+          ],
+          "bates": [
+            "HOLMES0018423",
+            "HOLMES0018424"
+          ]
+        }
+      ],
+      "notes": [
+        "The characterizations of the technicians and testing process are Balwani’s statements. This thread does not establish whether the procedure complied with regulations."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 3
+    },
+    {
+      "id": "email-10628",
+      "title": "Reviewing a statement for the Wall Street Journal",
+      "summary": "Balwani asks Kingshuk Das to review a proposed statement distinguishing CMS findings about laboratory practices from the integrity of Theranos technology. Das says the wording is accurate in his opinion.",
+      "themes": [
+        "press",
+        "regulators"
+      ],
+      "subject": "statement",
+      "date_start": "2016-03-31",
+      "date_end": "2016-03-31",
+      "participants": [
+        "Sunny Balwani",
+        "Brooke Buchanan",
+        "Heather King",
+        "Elizabeth Holmes",
+        "Kingshuk Das",
+        "Donald Tschirhart"
+      ],
+      "messages": [
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Brooke Buchanan",
+            "Heather King",
+            "Elizabeth Holmes",
+            "Kingshuk Das",
+            "Donald Tschirhart"
+          ],
+          "cc": [],
+          "datetime_raw": "Thursday, March 31, 2016 3:36 PM",
+          "datetime_iso": "2016-03-31T15:36:00",
+          "timezone_status": "not stated",
+          "text": "King. WSJ has asked if they can use the following statement we provided to them. can you please let me know if this seems reasonable? thanks.\n\n“CMS surveys evaluate lab practices. The deficiencies cited refer to how certain Theranos technologies were used and not to the fundamental integrity of the technologies themselves. The company’s proprietary technologies have already been cleared for testing HSV-1 by the FDA. Separately, the majority of the CMS deficiencies were not related to Theranos proprietary technologies.”",
+          "source_pages": [
+            1
+          ],
+          "id": "email-10628-01",
+          "subject": "statement",
+          "source_id": "EMAIL-10628",
+          "uncertain": false
+        },
+        {
+          "sender": "Kingshuk Das",
+          "to": [
+            "Sunny Balwani",
+            "Brooke Buchanan",
+            "Heather King",
+            "Elizabeth Holmes",
+            "Donald Tschirhart"
+          ],
+          "cc": [],
+          "datetime_raw": "Thur 3/31/2016 10:38:48 PM (UTC)",
+          "datetime_iso": "2016-03-31T22:38:48Z",
+          "timezone_status": "explicit",
+          "text": "That works for me--it's accurate, in my opinion",
+          "source_pages": [
+            1
+          ],
+          "id": "email-10628-02",
+          "subject": "statement",
+          "source_id": "EMAIL-10628",
+          "uncertain": false
+        }
+      ],
+      "quote": "That works for me--it's accurate, in my opinion",
+      "sources": [
+        {
+          "id": "EMAIL-10628",
+          "exhibit": "EMAIL-10628",
+          "trial_exhibit": "10628",
+          "label": "Trial exhibit 10628",
+          "local_file": "exhibits/emails/EMAIL-10628.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%2010628/Trial%20Exh.%2010628%20Email.pdf",
+          "sha256": "108cefd607242fe3d2b5db65b05e752bfd67f8190e716322922f464aceaf74b7",
+          "pages": [
+            1
+          ],
+          "bates": [
+            "HOLMES0018731"
+          ]
+        }
+      ],
+      "notes": [
+        "The quoted statement is the company’s proposed wording; its assertions are not presented as independent findings."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 2
+    },
+    {
+      "id": "email-5408",
+      "title": "The board is told not to engage the Journal",
+      "summary": "Heather King tells board members to route inquiries from John Carreyrou to the company, notify her, and avoid engaging with the reporter.",
+      "themes": [
+        "press",
+        "power"
+      ],
+      "subject": "Press Inquiries",
+      "date_start": "2015-08-01",
+      "date_end": "2015-08-01",
+      "participants": [
+        "Heather King",
+        "Board members (recipient addresses partly redacted)",
+        "Elizabeth Holmes",
+        "Sunny Balwani"
+      ],
+      "messages": [
+        {
+          "sender": "Heather King",
+          "to": [
+            "Board members (recipient addresses partly redacted)"
+          ],
+          "cc": [
+            "Elizabeth Holmes",
+            "Sunny Balwani"
+          ],
+          "datetime_raw": "Sat 8/1/2015 12:58:53 AM",
+          "datetime_iso": "2015-08-01T00:58:53",
+          "timezone_status": "not stated",
+          "text": "Dear board members,\n\nWe’re aware that a reporter from the Wall Street Journal named John Carreyrou has been contacting members of the board and others. As you know, we’ve been working with him since May on a story that is defamatory and misappropriates trade secrets.\n\nIf you receive a message from the Journal, please comply with our ongoing policy which is do not take the phone call or otherwise engage with the reporter, and notify me as soon as possible.\n\nIn the event that you inadvertently accept the call, the most simple and effective response is to say that you refer press calls to the company and nothing more.\n\nSincerely,\n\nHeather",
+          "source_pages": [
+            1
+          ],
+          "id": "email-5408-01",
+          "subject": "Press Inquiries",
+          "source_id": "EMAIL-5408",
+          "uncertain": false
+        }
+      ],
+      "quote": "do not take the phone call or otherwise engage with the reporter",
+      "sources": [
+        {
+          "id": "EMAIL-5408",
+          "exhibit": "EMAIL-5408",
+          "trial_exhibit": "5408",
+          "label": "Trial exhibit 5408",
+          "local_file": "exhibits/emails/EMAIL-5408.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205408/Trial%20Exh.%205408%20Email.pdf",
+          "sha256": "7880d5129e419e9ea7283c6f6175d03cb0f2c8fa3268bea4c22431a917bc1f97",
+          "pages": [
+            1
+          ],
+          "bates": [
+            "SEC-FRISTW-E-0000064"
+          ]
+        }
+      ],
+      "notes": [
+        "This exhibit contains one email, with no reply. The recipient list is partially redacted; the collective description follows the salutation.",
+        "The description of the story is King’s characterization."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 1
+    },
+    {
+      "id": "email-5704",
+      "title": "Holmes sends Rupert Murdoch the WSJ materials",
+      "summary": "Holmes writes to Rupert Murdoch with materials Theranos had shared with the Wall Street Journal. She says the team hopes Gerard will meet with them and asks for Murdoch’s thoughts.",
+      "themes": [
+        "press",
+        "money"
+      ],
+      "subject": "FW:",
+      "date_start": "2015-09-08",
+      "date_end": "2015-09-08",
+      "participants": [
+        "Elizabeth Holmes",
+        "Rupert Murdoch"
+      ],
+      "messages": [
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "Rupert Murdoch"
+          ],
+          "cc": [],
+          "datetime_raw": "9/8/2015 7:04:26 PM",
+          "datetime_iso": "2015-09-08T19:04:26",
+          "timezone_status": "not stated",
+          "text": "Dear Rupert,\n\nI hope all is wonderful with you and that you had a wonderful labor day. I have very much been looking forward to seeing you when you are out this way again.\n\nFor the purpose of keeping you in the loop, I wanted to share the attached documents with you, including a briefing document that was sent from David to Gerard at WSJ today in the hopes that Gerard might meet with our team. I have also attached the material Theranos has shared with WSJ (responsive to questions from John Carreyrou) since the materials I gave you in July. As I’ve reflected on this, I thought that were I in your shoes I would want to know/be in the loop on this one, and since you had the prior materials from July, wanted to give you the complete set. We are very much hoping that Gerard will meet with our team. If you have thoughts on that please do let me know.\n\nTalk to you soon,\n\nWith all my very best,\n\nElizabeth",
+          "source_pages": [
+            1
+          ],
+          "id": "email-5704-01",
+          "subject": "FW:",
+          "source_id": "EMAIL-5704",
+          "uncertain": false
+        }
+      ],
+      "quote": "We are very much hoping that Gerard will meet with our team. If you have thoughts on that please do let me know.",
+      "sources": [
+        {
+          "id": "EMAIL-5704",
+          "exhibit": "EMAIL-5704",
+          "trial_exhibit": "5704",
+          "label": "Trial exhibit 5704",
+          "local_file": "exhibits/emails/EMAIL-5704.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205704/Trial%20Exh.%205704%20Email.pdf",
+          "sha256": "d47972d0dfe5cc5faafe5046cd18bf3b275f975593dc2f589ec2f083313d812e",
+          "pages": [
+            1
+          ],
+          "bates": [
+            "THPFM0003110281"
+          ]
+        }
+      ],
+      "notes": [
+        "This exhibit contains only Holmes’s email. It does not include the referenced attachments or a reply from Murdoch."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 1
+    },
+    {
+      "id": "email-1675",
+      "title": "Shultz raises testing concerns, Balwani replies, and Shultz resigns",
+      "summary": "Tyler Shultz questions precision calculations, assay performance, marketing claims, and proficiency testing. Balwani disputes his analysis in a detailed inline reply, criticizes his tone, and asks for an apology. Shultz responds with his notice of resignation.",
+      "themes": [
+        "alarm",
+        "power",
+        "ops",
+        "regulators"
+      ],
+      "subject": "Follow up to previous discussion",
+      "date_start": "2014-04-10",
+      "date_end": "2014-04-15",
+      "participants": [
+        "Tyler Shultz",
+        "Elizabeth Holmes",
+        "Sunny Balwani",
+        "Daniel Young"
+      ],
+      "messages": [
+        {
+          "sender": "Tyler Shultz",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [],
+          "datetime_raw": "Thursday, April 10, 2014 3:24 PM",
+          "datetime_iso": "2014-04-10T15:24:00",
+          "timezone_status": "not stated",
+          "text": "Hi Elizabeth,\n\nWhen you have time could I possibly have half an hour to follow up on our previous meeting about the RPR test? I know you are extremely busy, so I wouldn’t mind waiting until an evening after the craziness of the work day dies down.\n\nThanks,\n\nTyler",
+          "source_pages": [
+            10,
+            11
+          ],
+          "id": "email-1675-01",
+          "subject": "Follow up to previous discussion",
+          "source_id": "EMAIL-1675",
+          "uncertain": false
+        },
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [
+            "Tyler Shultz"
+          ],
+          "cc": [],
+          "datetime_raw": "Thursday, April 10, 2014 4:27 PM",
+          "datetime_iso": "2014-04-10T16:27:00",
+          "timezone_status": "not stated",
+          "text": "Tyler: I’m tied up with people onsite – shoot me an email with anything you wanted to cover so I can be sure it gets addressed,\nElizabeth",
+          "source_pages": [
+            10
+          ],
+          "id": "email-1675-02",
+          "subject": "Follow up to previous discussion",
+          "source_id": "EMAIL-1675",
+          "uncertain": false
+        },
+        {
+          "sender": "Tyler Shultz",
+          "to": [
+            "Elizabeth Holmes"
+          ],
+          "cc": [],
+          "datetime_raw": "Friday, April 11, 2014 3:38 PM",
+          "datetime_iso": "2014-04-11T15:38:00",
+          "timezone_status": "not stated",
+          "text": "Hi Elizabeth,\n\nIn my meetings with Daniel I found that the discrepancies between our CVs were due to Daniel calculating CV based on the median value of each precision run, while I was calculating CV of the entire data set for each level. When I asked him why we do this, he said that it was a way to average out the noise. I was under the impression that the coefficient of variation was meant to be, at least in part, a measure of how much noise exists in the data. By averaging out this noise before CV is calculated, the CV as a metric of assay performance becomes less meaningful. And because our calculations of CV are based on median rather than mean, this means that 2/3 of our data is entirely ignored both when calculating CV and acquiring a patient result.\n\nWhile I understand that calculating CV based on the medians is relevant for comparing our system to systems of our competitors, the fact that the CV of our cutoff level for Syphilis RPR drops from 43% to <20% by moving from CV of the entire dataset to CV of the medians tells me that a significant portion of our data is just noise. I believe that we should set two standards of CV that must be met in order for an assay to pass precision testing; a standard for the medians of each run, and a standard for each level’s dataset as a whole.\n\nDaniel also told me that for qualitative assays such as Syphilis RPR, the CV as metric of assay performance is less important than it would be for quantitative assays. I agree with him, at the end of the day the only thing that’s important is delivering the correct result to our patients. However, given the high variation in our dataset, it is not surprising that when using a strict antibody index cutoff value of 1, our sensitivity was only 65% the first time we tested clinical samples and 80% the second time. The first issue I have with this is that there is no penalty for repeating an experiment. We repeat and delete rather than repeat and add. In our validation reports there is never any mention of how many attempts of precision or comparability testing it took to get the data that’s presented. The second problem that I have is that our equivocal zone is adjusted and widened until we see the sensitivity and specificity that we want to report. Almost regardless of what the data looks like, we can adjust this zone until we get the 95% sensitivity that we want to see. Tellingly, out of the 247 patients that we tested, 66 of whom were Syphilis positive, more patients fell into our equivocal zone than we correctly diagnosed as being positive for Syphilis.\n\nI then asked Daniel if he thought our Syphilis test was truly the most accurate and most precise Syphilis test on the market. He said that Theranos does not claim to have the most accurate or precise tests, and that if I could find any marketing materials that make such claims that I should forward them to him. A quick google search yields a handful of articles that explicitly make these claims. Daniel agreed that the authors make sweeping statements about our assay performances, but noted that Theranos never directly made any of these claims. If well-established institutions such as the Wall Street Journal have published misinformation about Theranos, it seems it would be in our best long-term interest to correct this information in order to uphold our image of bringing transparency to blood testing.\n\nI then thought back to our previous discussion when I asked about our claim of having <10% CV for our assays. We checked the Theranos website together and found that we only make this claim for Vitamin D. I checked the 2-Tip validation data (we were running 2-tip protocol at the time) and found that the CVs for our three levels were 18%, 16%, and 19% when calculated based on the median of each precision run and 23%, 23%, and 25% when calculated based on the entire dataset. Here are scatter plots of the results from VitD precision testing, they don’t seem to meet the standard we claim on our website for Vitamin D.\n\n[The three scatterplots are reproduced below this email.]\n\nFor a while I’ve been giving our assays the benefit of the doubt until we see how the new 6-Tip method performs. Here is a comparison of the 7 assays we run on Theranos devices to their predicate methods. While we are now performing better than we were with the 2-Tip method, you can see that of the 7 assays we run on the Theranos system, there is only one level from one assay that shows\n\nless variation than our competitor’s technology.\n\n[Tables in Shultz’s email; rows below retain the source’s headings and values. Balwani’s corrections are in his reply.]\n\nImmulite 3rd generation TSH — level (uIU/ml), total CV:\n0.016, 12.5%; 0.32, 5.3%; 1.3, 4.6%; 3.3, 4.8%; 7.3, 5.1%; 19, 4.5%; 39, 6.4%.\nTheranos TSH, 6-Tip — Level (uIU/ml), CV whole dat, CV medians:\n0.02, 42.9%, 34.1%; 2, 24.6%, 17.9%; 20, 27.7%, 20.8%.\n\nImmulite fT4 — level, CV total:\n0.51, 10.2%; 0.85, 7.1%; 1.13, 6.4%; 1.49, 6.0%; 2.91, 3.6%; 4.82, 3.6%.\nTheranos fT4, 6-Tip — Inter mean, whole dat cv, CV medians:\n1.63, 28.8%, 14.5%; 5.42, 11.0%, 4.0%; 6.68, 5.2%, 3.9%.\n\nImmulite TT4 — level, CV total:\n1.8, 11.7%; 2.6, 10.8%; 5.2, 8.5%; 7, 6.1%; 8.2, 5.6%; 13, 6.0%; 16, 5.6%.\nTheranos TT4, 6-Tip — Level, CV whole Dat, CV medians:\n1.91, 16.0%, 13.9%; 3.37, 16.0%, 14.0%; 15.8, 18.3%, 14.6%.\n\nImmulite tPSA: “<4.6% for 3 levels of controls”.\nTheranos tPSA, 6-Tip — Level, CV whole Dat, CV medians:\n1.4 (ng/ml), 33.8%, 13.0%; 3.37 (ng/ml), 17.1%, 10.8%; 10.2 (ng/ml), 24.1%, 11.8%.\n\nDiasorin VitD — Level, CV:\n7.2, 5.5%; 14.7, 4.2%; 21.7, 4.0%; 35, 2.9%; 73, 3.2%; 62.7, 3.1%; 93.6, 3.2%; 115, 4.2%; 128, 4.8%.\nTheranos VitD, 6-Tip — Level, CV whole Dat, CV medians:\n11.7 (ng/ml), 18.6%, 12.5%; 28.7 (ng/ml), 19.1%, 9.5%; 73.6 (ng/ml), 12.1%, 9.8%.\n\nOraquick HCV: Sensitivity 99%; Specificity 100%.\nTheranos HCV: Sensitivity 99%; Specificity 94%.\n\nImmulite TST — Level, Total CV:\n27.1 ng/dL, 24.3%; 86.1 ng/dL, 13.0%; 152 ng/dL, 10.3%; 280 ng/dL, 9.1%; 414 ng/dL, 8.2%; 991 ng/dL, 7.2%.\nTheranos TST, 6-Tip — Level, CV whole Dat, CV medians:\n90 ng/dL, 19.4%, 11.6%; 300 ng/dL, 12.5%, 5.1%; 1,000 ng/dL, 17.4%, 13.0%.\n\nFurthermore, Theranos has an inherent advantage in these comparisons due to the way we run our precision testing. While our competitors conduct their precision testing over 20 days, we do ours in 5. Accordingly, we can see that our precision experiments are not indicative of longer-term assay performance once we begin running patient samples; our Daily Quality Control failure rate is far greater than would be predicted by our QC reference range calculations, and our internal comparison of Theranos results in proficiency testing yielded less than satisfying results. I am not sure if this analysis has been done, but we should examine our Daily QC results as if it were a prolonged precision experiment to more accurately evaluate long-term assay performance.\n\nI am sorry if this email sounds attacking in any way, I do not intend it to be, I just feel a responsibility to you to tell you what I see so we can work towards solutions. I am invested in this company’s long-term vision, and am worried that some of our current practices will prevent us from reaching our bigger goals. I’m sorry I wasn’t able to catch you for a conversation, I know how busy you are, but if you would like to discuss anything I’ve mentioned in person, I would be more than happy to do so.\n\nThanks,\n\nTyler",
+          "source_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "embedded_figures": [
+            {
+              "local_file": "data/email-assets/EMAIL-1675-plots-1-2.webp",
+              "source_page": 5,
+              "caption": "Scatterplots in Shultz’s email: Level 1 (15.16 ng/mL) and Level 2 (33.49 ng/mL), with the reported-level reference lines.",
+              "sha256": "e6c955886cc81c255800e97b83e4dee9e654606cc2547ce4f20bf0c46cd1869c"
+            },
+            {
+              "local_file": "data/email-assets/EMAIL-1675-plot-3.webp",
+              "source_page": 6,
+              "caption": "Scatterplot in Shultz’s email: Level 3 (76.31 ng/mL), with the reported-level reference line.",
+              "sha256": "f3c05b8ab7f1ee2baacf69e8b8905a4f863161d5f18a1e43200c40ccf73e71ac"
+            }
+          ],
+          "editorial_note": "Shultz’s original paragraphs and tables are separated from Balwani’s later inline comments. Bracketed labels and table-layout prose are editorial additions. The plotted figures are reproduced as images; their data points have not been numerically reconstructed.",
+          "id": "email-1675-03",
+          "subject": "Follow up to previous discussion",
+          "source_id": "EMAIL-1675",
+          "uncertain": false
+        },
+        {
+          "sender": "Elizabeth Holmes",
+          "to": [],
+          "cc": [],
+          "datetime_raw": "Friday, April 11, 2014 4:35 PM",
+          "datetime_iso": "2014-04-11T16:35:00",
+          "timezone_status": "not stated",
+          "text": "",
+          "source_pages": [
+            1
+          ],
+          "kind": "forward",
+          "editorial_note": "Forwards Shultz’s email without adding a body. The quoted header does not show a recipient.",
+          "id": "email-1675-04",
+          "subject": "Follow up to previous discussion",
+          "source_id": "EMAIL-1675",
+          "uncertain": false
+        },
+        {
+          "sender": "Sunny Balwani",
+          "to": [
+            "Tyler Shultz"
+          ],
+          "cc": [
+            "Elizabeth Holmes",
+            "Daniel Young"
+          ],
+          "datetime_raw": "Monday, April 14, 2014 4:48 PM",
+          "datetime_iso": "2014-04-14T16:48:00",
+          "timezone_status": "not stated",
+          "text": "Tyler.\n\nWe saw your email to Elizabeth.\n\nBefore I get into specifics, let me share with you that had this email come from anyone else in the company, I would have already held them accountable for the arrogant and patronizing tone and reckless comments. In your case, I am giving you the benefit of doubt that your intentions are in the right place, and am taking the time to respond, even though your tone in this email all the way through the last paragraph is not that of someone seeking to understand, but rather someone standing at higher perch of morality and business wisdom. Perhaps this too was not your intent but this clearly comes across as your mind set.\n\nSee my comments in red below.\n\n[Sunny Balwani, inline reply: On CV calculations]\nYour basic understanding of statistics is still low and you do not grasp the meaning of the CV. We happen to be running 6 six replicates inside the device for our own comfort, going the extra mile in our early stages. For almost a decade, when we have run assays in pharma trials, we have run assays only in singlicates or duplicates and achieved extremely high quality data. As a matter of fact, we have consistently seen that data generated by our platform — when free of human errors — has at least matched if not exceeded the quality from other laboratories (more on the point about laboratories later). This was also confirmed recently when NASA compared one of our assays (one of the most challenging in the field) to leading competitors. They found that no other company could provide the performance that Theranos could. Because we are running assays in 6 replicates, this does not mean this is what is reported. What is reported is one result. We get a high degree of confidence by our algorithms which take into account the number of replicates we choose to run as well as other factors. This is a point you are struggling most to grasp. Let me further simplify. It is like someone asking you to count M&Ms in a bag. Since we really want to be sure, we have 6 people count these instead of 1, even though the answer we give out is still 1 number and therefore in a large number of cases our answer is of higher confidence versus others who may only be counting the bag using 1 person. This doesn’t mean we have to publish that we have 6 people counting and 6 answers instead of 1. We use internal algorithms to arrive at the right answer based on the use case. It may be a simple average of 6, a median, or some other more complex algorithm looking at statistical distributions and expected values. This is the purpose of having a world class computational biosciences team to select what statistical model to use in order to generate the most robust clinical data with the highest confidence from our system (assay, hardware, software — including our algorithms, and other elements). What matters is that the answer we provide is something we have high confidence around. In this example, each of these 6 people may in turn employ six more people so they can in turn provide the 1 right answer that feeds into our algorithm, which ultimately reports out the 1 right and robust answer. Similarly, what goes on inside the device is for internal calculations and verification purposes. The final reported result is all that matters, whether internally we run this on 1 replicate, 2, 6 or 12. It is important for us (ie, R&D, internal data generation, and the algorithm, amongst other areas) to know tip to tip variance, but not relevant in terms of how we quantify assay precision (CV). Daniel Young went over this in detail with you over 3 sessions, as you were calculating this incorrectly before, and it still seems like your understanding around this is deficient. Please know these repeat sessions with Daniel himself are not given to every employee. We also don’t share our proprietary methodologies with other junior employees and certainly not with those that are not involved in a given process. Moreover, Daniel and his team’s time is also extremely precious given the amount of work they do almost 7 days a week. This was a privilege extended to you as a courtesy. Not a right.\n\n[Sunny Balwani, inline reply: On variance across tips]\nAgain, the variance across tips is not relevant as mentioned above- the variance for the reported value is what is quantified to assess assay performance.\n\n[Sunny Balwani, inline reply: On equivocal zones, outliers, and repeated studies]\nEquivocal zones are commonly used, and expected in such qualitative assays. The approach being used for settings such as ours is based on gold standard techniques. We could choose to develop an assay with an equivocal range that is wider than some other assays. In that case, the impact would be on confirmatory testing. But this is a business decision. This is not ignoring data. Our recent internal dry-runs for PT for HCV are showing that our test is performing well as indicated in the validation report we are finalizing. Moreover, the recent pre-trial internal PT tests showed “borderline” performance of the reference methods (non Theranos) in the equivocal zone based on repeat testing.\n\nYour understanding of how and why we eliminate outliers is also incorrect. Like I mentioned earlier, we run every assay 6 times on each sample (on 6 tips) so we generate more data and in turn we generate values with highest confidence. Our algorithms use these data to generate the best result. You seem to lack understanding of how statistics are applied to real world laboratory problems (including how things like equivocal zones are set) yet rather, based on dangerously low awareness of this applied math, jumped to conclusions. In the case of processing outliers in a data set, our algorithms are designed to eliminate some outlier tips as part of this data analysis process for our system. Your calculations below are wrong because of your lack of understanding of this science.\n\nNo studies are simply repeated with the original data being ignored. There are times when the initial data sets from initial studies may not be good enough because of many factors including the fact that many of our assays, algorithms, formulas, production methods, QC processes may have been in early stages. In such case when data suggests that to be the case, we improve our products, assays, software, algorithms, hardware, manufacturing processes, and more. We ask relevant teams – sometimes all teams – to identify the root cause of such issues and make changes and repeat our experiment. THIS IS CALLED PRODUCT DEVELOPMENT THRU ITERATION. In this case when we learn that our initial experiment was a result of a software bug or algorithms needing further refinement and debugging, misalignment of hardware tools or simply erroneous human processes, we discard that data in the R&D and product development stage. Nothing works the first time around in product development, not in startups, not in larger companies and certainly not when you are doing something extremely novel and unprecedented with limited resources. This is how every high technology product is developed. I find it very disappointing that rather than seek and understand, you claim to be judging something you don’t have a basic understanding of. It is also very clear that you are thoroughly confused about what is product development and what is validation in CLIA. Because of lack of resources, we ask people to do multiple things, wear multiple hats, and continually optimize the development process. We don’t need to explain these decisions to every individual doing the experiments as there is a more senior, more experienced team that does data crunching and decides what experiments to rerun. Most junior level lab associates are not involved in this because they lack the experience and knowledge. We hired them to run experiments, not do data analysis. This is also why we added you to the ELISA experiments team. Not because you brought a superior understanding of data analysis but because we needed people to run routine experiments. If you wanted to understand data analysis, the emphasis should have been seeking to understand - when you sent your last email over a month ago, you wanted to understand more and we asked Daniel to spend his time with you. After that session, you shared you understood better. Now you are making highly inaccurate statements from a point of view of superior knowledge yet you don’t understand what you’re making statements about.\n\n[Sunny Balwani, inline reply: On accuracy claims and laboratory comparisons]\nThis is the point that irritates me the most. A quick google search - without paying attention, understanding and again, seeking to understand, but rather jump to conclusions and judgment of others, their understanding, and their intentions.\n\nI saw these articles. These articles claim Theranos is better. I personally agree with that, but that is my opinion just like many of these articles are opinions of bloggers and authors. An overwhelming majority of patients who have experienced our systems over the last decade, not just at Walgreens, agree with this opinion based on their experiences. When journalists who come and experience what we do say that this is the best way to equip and operationalize a lab, there is no disagreement around that.\n\nIn specific, you mention the WSJ article. Here is what the author says: “Theranos's processes are faster, cheaper and more accurate than the conventional methods and require only microscopic blood volumes, not vial after vial of the stuff.” This says our processes are more accurate than conventional methods. Does the article say Theranos’ processes (more on this process point later) are better than immulite devices running in 1 lab when testing only 1 device? This brings me to other major point that either you don’t understand or simply choose to ignore in making your assertions. Let me shed some light for you.\n\nAt this point, Theranos is not selling any devices. We are a high complexity CLIA laboratory. As such in general we are compared to other high complexity CLIA laboratories (read the WSJ language — it says conventional methods which in our case is other laboratories and more specifically, the larger national laboratories that use multiple devices for a given assay in different locations - to compare apples to apples. When on our web site we site that as a CLIA lab, our CVs are such and such (we only make 1 claim on Vitamin D – more on this later), we are comparing these to other labs. Do you know what the typical inaccuracy for Vitamin-D is in other labs? It is usually much higher than 25%. Do you know what Vitamin-D CV is across different devices and different Labs in even 1 company like Quest and Labcorp? It is over 40%. Many of our hospital and payer partners routinely tell us they have never seen Vitamin-D CV from larger labs less than 50% in their career, The same applies for an overwhelmingly large number of other assays; the CVs for these is usually much higher when you measure it across multiple devices, different reagent lots and different days. For Vitamin D, the CLIA governing body doesn’t even define an acceptable CV (only state of NY does) because this is one of the most volatile and difficult assays. We go through the excruciatingly difficult task of calibrating our lots and batches of devices, assays, reagents, cartridges, plastics, movements inside devices, and other even more difficult things that we don’t publish, so that we can have a platform that gives us this capability to have tight CVs across the locations at which people give samples and also across large numbers of devices and cartridges. We will only even consider claims comparing our devices to other devices when we start selling our devices.\n\nOf course, the most important tenet about measuring CV is not when you are in a controlled, pristine environment where all elements and all processes are controlled, but rather when everything is as close to real world as possible and measuring CV on samples from the moment samples are collected to all the way results are reported (from cradle to grave). No one — no lab, no device vendor has ever measured it. That’s the only true CV that matters in clinical decision making. And as you may have heard us say several times (though seems like paid no attention to) in the context of actionable information, that’s the accuracy information we are able to generate and control. The device and instrument makers don’t measure accuracy that way because they can’t; their devices are only in a ‘real world’ environment when they are in laboratory settings and there they have no control over sample collection, sample transport and hundreds of other variables. As you may have already read (though again seems like paid no attention to), over 90% of errors and major cause of variance happen in pre- and post-analytical processing and in our case, these processes are much better controlled. As we grow as a company, these will only get better and, for our competition, they only get worse. On the other hand, the commercial high complexity labs never will measure, let alone report, these CVs because they have no controls over majority of the process themselves, let alone the technology they buy. Equally importantly, it is only when you have this level of confidence in your overall process that you are able to trend such data over time and across locations for personalized medicine — another thing we are referring to when we talk about accuracy. When we have talked to the physicians, hospital lab directors and others, it takes them a few short minutes to understand this and see that this process is far superior — and the process is more accurate - from the ground up. We are in the process of generating tremendous amounts of data around this with our partners but like I said before, we are not publishing these claims yet. That said, this has been our whole point and mission around “actionable information” and what we always talk about when talking about accuracy as you can see from the context around any performance claim, including on our website and in any articles.\n\nIf you really were seeking to understand, you would not have approached this too the way you did in your email.\n\nI also wanted to share with you our own first-hand experience with “top-of-the-line” competitor’s devices - an experience that supports the overall sentiment in the laboratory industry. Namely, we have more than one of the same devices from our competitors. We are in the process of finalizing comparability/verification of these “identical” devices. We have found that the performance/accuracy/CV across these devices are not adequate for some tests and we are forced to seek corrective actions from the vendor!!! Unfortunately, most labs are not able to identify these problems like we just did because they don’t bring to bear the incredible resources we have on these problems, and patient care suffers as a consequence. We have also seen firsthand that even on one clinical analyzer from these vendors, we see variance from run to run, resulting in CVs that in actually never meet their publicized CVs in their package inserts. Our fully integrated laboratory solutions will vastly improve on this broken and outdated model. I find it particularly amusing that you cite this broken model as your reference point and gold standard.\n\nLet me also add a few comments on your high degree of faith in comparing our CV results to those that you pulled from their package inserts. Device makers calculate CVs under very pristine and controlled environments and across limited conditions. Your citing these as your reference without much background into this business is again ironic. Try running these assays on multiple devices from these same vendors across labs or even samples from different sample collection locations in real life CLIA lab conditions under which we operate our lab and devices (again — the device to device comparison in product development or validation is not relevant in any real world laboratory setting — it is the laboratory performance which includes many sources of variance from sample collection to analysis).\n\nWe believe that our system -- approach, our methodology, our technology, our platform is superior to other high complexity CLIA lab’s. It doesn’t have to be singularly best in every given moment on every assay on every sample on every day in the hands of any person when compared to a single reference method device. We can never prove that, like I said, that’s a logistically impossible problem to prove. However, in the long term as we generate more and more data and gain market share, we may make direct claims on our web site. In the meantime, we don’t. Anything — every single letter — that we put in our marketing content and on our website is vetted by some of the\n\nmost competent law firms who are subject matter experts on such claims and contrary to your comments to Daniel — on the implications of those claims. We are a VERY conservative company and take these very, very seriously. We ask our counsel not just to make sure our claims are correct and substantiated, but also that they don’t lead an average person to draw wrong conclusions. We don’t take anything lightly. We run a very tight ship on these matters. And you need to stop believing out of ignorance that we just woke up one day and started making these claims with no thought into them or substantiation behind them.\n\nRegardless of the above more important points, the CV you are comparing is from multiple Theranos devices to 1 competitor device. If you are measuring CVs across multiple devices and multiple reagent lots from the same vendor the results are horrendous as referenced above. If you measure CV across a lab like Quest and LabCorp or a system, these CVs get even worse.\n\n[Sunny Balwani, inline reply: On the Vitamin D scatterplots]\nThe data below appears to be form the 2-tip precision data, including each tip value. As noted several times, the CV metric across that data is not how we quantify our assay system CV. We have referenced our 6-tip Vit D precision below in reference to the table summaries. Also note that you are wrong here too - median was not used here – averages are. This is why you are generating wrong numbers below.\n\n[Sunny Balwani, inline reply: On the assay-comparison tables]\nYou are clearly not in a position to be able to “give our assays the benefit of the doubt.” - this statement is insulting and again patronizing. You are also again ignoring lab-lab variance and pre- and post-analytic as well as device- device variance versus idealized single device validation. Additionally, the below summaries are incorrect largely because your have used the median values, while for all quantitative\n\ntests, we use means. Moreover, the algorithm also takes into account the statistical distributions of the data, outliers, and other analyses\n\nin arriving at the final reportable. Details for each of these tests are below — NB with a correction to a bug in the algorithm we’ve now found through internal pre-trial PT tests (more on this below), these values are now even better than what we have written in here:\n\n[Inline comment following the TSH table]\nAgain your numbers are off. Our precision numbers are instead 8.4%, 3.5% and 4.6%. This is pretty close to the predicate (which were measured in pristine conditions) and better in some cases.\n\n[Inline comment following the fT4 table]\nCalculations in the report show CVs values of 19.2%, 9.2% and 7.6%.\n\n[Inline comment preceding the VitD table]\nValues in the report are 12.4%, 9.4%, and 7.3%.\n\n[Inline comment preceding the TST table]\nTST values from the report: 7.5%, 6.2%, and 9.3%. Definitely on par with the reported Immulite values, though that is not the point here as explained above since Immulite values are calculated only on 1 device and without reference to system level or laboratory end-end variance.\n\n[Sunny Balwani, inline reply: On test duration, QC flags, and internal PT tests]\nYou are again wrong here but that is primarily because you seem to be starting with the assumption that everything you read on Google and everything other labs publish is word of truth. It is not. As mentioned above, your assumption and knowledge about laboratory industry in light of the types of statements you're making is dangerously deficient.\n\nLet me address each of your 3 statements here separately.\n\nFirst, the CLIA regulations define a day as 8 hours, not 24 hours. We run our precision 20 hours amongst multiple shifts. This gives us an advantage only in number of calendar days it takes us to complete the experiment (calendar day time management for the business) but also has some disadvantages, though these disadvantages to you who is clearly starting from a place of doubt don’t seem to be obvious or relevant.\n\nSecond, our daily QC control “failure” rate is higher because of how we have constructed our QC tests. Other devices in the upstairs lab play tricks with their QC runs and don’t bubble up all errors in raw format to the users like we do. Our QC “failures” are not because of system or reagent stability like you claim. There is absolutely no data that shows that and it is astonishing you are implying that this is the case without any data. Our QC “failures” are because of newness of some of our processes, which we are improving every day. Moreover, a QC “failure” is not by definition a failure but rather a flag – given performance specifications flags are routinely expected on our and other systems. In this regard, the word “failure” is being carelessly thrown around but is not in fact indicative of a failure. Again, if you had started from a place of understanding and intention to help, you would not have made the statements you did on this too. Also know that the QC “failures” on Edisons are because we display all errors to the CLIA technicians so in these early days, we know more, learn more and catch all possible error conditions no matter what the root case may be. We are working on automatic QC software for CLIA that will mitigate the QC flag messages and only give flags that are relevant to CLIA or to patient sample processing. Other devices and vendors have been doing this for decades. We need to write more software to capture and mitigate these which we are doing this quarter. This is product development, this is how startups are built.\n\nLet me now address the point about internal pre-trial PT results. These first internal pre-trial PT tests were for information gathering and process improvement purposes. The purpose of these pre-trial runs were to test new processes we have been introducing to the CLIA lab, highlight where to focus and improve those processes, SOPs, procedures and accordingly focus our software resources. The results of these initial internal pre-trial PT runs were ‘less than satisfactory’ because we identified a bug in our algorithm and software as this process was intended to do. This was the intent behind this internal pre-trial run. There is absolutely nothing in these internal pre-trial PT results that says that our internal reagent, assay or cartridge stability is at question. To the contrary, ongoing tests and stability studies for reagents, antibodies, controls and cartridges show extended stability and our hardware QC procedures ensure device performance is stable and meet our strict requirements. Even then, during this debugging process, we questioned everything. All teams worked together to reproduce the entire process manually, reran tests, calibrators, and poured through our code to see where bugs might be. We found a bug and we are working on fixing the algorithms. But most importantly, this was an internal pre-trial test run that you are making these very serious statements about. This was the purpose of this internal pre-trial test run — to find bugs. For you to use this internal test data that was designed to find bugs in our internal processes and claim fault with assays and question system or reagent stability is disingenuous.\n\n[Sunny Balwani, inline reply: On the earlier PT question and the requested apology]\nLet me add a final point to this. I saw an email from Daniel this weekend which you sent in February I believe where you questioned the legality our PT method and where you cited a reference from CMS regulations. This is of the utmost seriousness to our business — not only are you questioning our integrity, but our license to operate as a business based on your limited, if any, understanding of laws around the CLIA and laboratory regulatory framework (which I might add is incredibly complex). That reckless comment and accusation about the integrity of our company, its leadership and its core team members based on absolute ignorance is so insulting to me that had any other person made these statements, we would have held them accountable in the strongest way. The only reason I have taken so much time away from work to address this personally is because you are Mr. Shultz’s grandson. The time that Elizabeth and Daniel have personally spent with you on these topics is a privilege — again not a right — that you are abusing now, insulting the people who have served the company and its mission the hardest and the longest and demeaning their intentions. Regardless of your intent, your actions and the patronizing comments in this email do not reflect that intent.\n\nI have now spent an extraordinary amount of time postponing critical business matters to investigate your assertions - the only email on this topic I want to see from you going forward is an apology that I’ll pass on to other people including Daniel here.",
+          "source_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "editorial_note": "Balwani’s inline responses are collected here in source order. Bracketed labels identify which part of Shultz’s preceding email each response addresses. The source says the responses were red; this public copy is grayscale, with different type styles identifying the inserted comments.",
+          "id": "email-1675-05",
+          "subject": "Follow up to previous discussion",
+          "source_id": "EMAIL-1675",
+          "uncertain": false
+        },
+        {
+          "sender": "Tyler Shultz",
+          "to": [
+            "Sunny Balwani"
+          ],
+          "cc": [
+            "Elizabeth Holmes",
+            "Daniel Young"
+          ],
+          "datetime_raw": "Tue 4/15/2014 3:42:35 PM",
+          "datetime_iso": "2014-04-15T15:42:35",
+          "timezone_status": "not stated",
+          "text": "I do not expect to be treated any differently because of who I am related to. Theranos is clearly not the place for me. Consider this my two week notice. If you prefer I leave today that’s fine with me too.\n\nTyler",
+          "source_pages": [
+            1
+          ],
+          "id": "email-1675-06",
+          "subject": "Follow up to previous discussion",
+          "source_id": "EMAIL-1675",
+          "uncertain": false
+        }
+      ],
+      "quote": "Theranos is clearly not the place for me. Consider this my two week notice.",
+      "sources": [
+        {
+          "id": "EMAIL-1675",
+          "exhibit": "EMAIL-1675",
+          "trial_exhibit": "1675",
+          "label": "Trial exhibit 1675",
+          "local_file": "exhibits/emails/EMAIL-1675.pdf",
+          "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%201675/Trial%20Exh.%201675%20Email.pdf",
+          "sha256": "e27162744eae1c12f5f95637fb23a3911415f61f2769a6fb66c228a867ba8e0c",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "bates": [
+            "TS-0009481",
+            "TS-0009482",
+            "TS-0009483",
+            "TS-0009484",
+            "TS-0009485",
+            "TS-0009486",
+            "TS-0009487",
+            "TS-0009488",
+            "TS-0009489",
+            "TS-0009490",
+            "TS-0009491"
+          ]
+        }
+      ],
+      "notes": [
+        "All 11 pages were visually reviewed. The source interleaves Shultz’s concerns and Balwani’s replies; the reader separates them by author and adds bracketed topic labels. Every substantive paragraph, table value, and inline correction is retained.",
+        "The competing scientific and regulatory assertions are the authors’ positions, not independent findings by this reader.",
+        "A short printed fragment of the TT4 table border continues at the top of page 8 without additional data."
+      ],
+      "review_status": "Full source pages visually reviewed; substantive email bodies transcribed",
+      "message_count": 6
+    }
+  ]
+}

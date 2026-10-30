@@ -1,0 +1,137 @@
+{
+  "description": "Public court-selected message excerpts: Trial Exhibits 5387A–I and five additional court filings. Gaps remain; this is not the full master message collection.",
+  "files": [
+    {
+      "exhibit": "5387A",
+      "file": "5387A.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387A/Trial%20Exh.%20%205387A%20-%20Texts.pdf",
+      "bytes": 266452,
+      "pages": 2,
+      "sha256": "bb3a0a82b8d14d0b1f2bfa12fc60c1937d97d6e7e340707e1f3bf0fac1b0ea0a",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387B",
+      "file": "5387B.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387B/Trial%20Exh.%205387B%20Texts.pdf",
+      "bytes": 5352014,
+      "pages": 30,
+      "sha256": "7f8a34e79085465f5d2d359a164be824921c808a8b2d01b17593ece414ffbc74",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387C",
+      "file": "5387C.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387C/Trial%20Exh.%205387C%20Texts.pdf",
+      "bytes": 3107734,
+      "pages": 16,
+      "sha256": "46dc67e52d0cb5890ea1da71a566f0d3f130e13237a07947125db0ca89ed66fb",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387D",
+      "file": "5387D.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387D/Trial%20Exh.%205387D%20Texts.pdf",
+      "bytes": 24339442,
+      "pages": 124,
+      "sha256": "144df05fb3dcf457f0cabc41805689774ae3ad7c498d41dcc10e8ffbfefc95a4",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387E",
+      "file": "5387E.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387E/Trial%20Exh.%205387E%20Text%20Messages.pdf",
+      "bytes": 705297,
+      "pages": 3,
+      "sha256": "89101e60be5044ade51d0b342a4523b3b8a1f82c044932cf38e61ac8f5c647a0",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387F",
+      "file": "5387F.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387F/Trial%20Exh.%205387F%20Text%20Messages.pdf",
+      "bytes": 1703519,
+      "pages": 12,
+      "sha256": "3416a8d0a98963d10a776598c8e39b147b04189b1e1c7b604d93eba2f0de0509",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387G",
+      "file": "5387G.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-258%20USA%20v.%20Holmes/Trial%20Exh.%205387G/Trial%20Exh.%205387G%20Text.pdf",
+      "bytes": 4309083,
+      "pages": 8,
+      "sha256": "d0ec1dc8437dcba18fed029d0570668d448feab63d501464b3b9c34d5bd63219",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387H",
+      "file": "5387H.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-00258_USA_v_Balwani/Trial%20Exh.%205387H%20Texts.pdf",
+      "bytes": 14076625,
+      "pages": 129,
+      "sha256": "8360d5904685d15e778bcfec7d4a24d91a6586a8207e181b2cc37311dc806973",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "5387I",
+      "file": "5387I.pdf",
+      "source_url": "https://files.cand.uscourts.gov/files/18-CR-00258_USA_v_Balwani/5387I-%20Text%20Messages.pdf",
+      "bytes": 3173761,
+      "pages": 14,
+      "sha256": "eccd4a9e3750069792613977b5cb56c74c4d0546fea782ce3c43e33115785756",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "ECF-1005-4",
+      "file": "additional/ECF-1005-4.pdf",
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1005.4.pdf",
+      "bytes": 1538466,
+      "pages": 6,
+      "sha256": "a5e05ca9cf744b98e91370fb59c5197e473ecc435ddd99361b90de1e05951584",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "ECF-1166-1",
+      "file": "additional/ECF-1166-1.pdf",
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1166.1.pdf",
+      "bytes": 3368920,
+      "pages": 9,
+      "sha256": "335d1e56682762246c4595e40ba04ec7453533af9b298fb6b8b2c9fe9634f420",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "ECF-1072-3",
+      "file": "additional/ECF-1072-3.pdf",
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1072.3.pdf",
+      "bytes": 3925035,
+      "pages": 36,
+      "sha256": "3bc5e4c12291e0bec5363942692861037d65ced59f470d90180ce5cf67bbbd14",
+      "verified_pdf_header": true,
+      "public_file": "public/ECF-1072-3.pdf",
+      "public_copy_note": "Public reading copy: a bank PIN on PDF page 18 is omitted editorially in the transcript, page image, and downloadable copy. The original court file is retained locally. This omission is not a court redaction."
+    },
+    {
+      "exhibit": "ECF-723-2",
+      "file": "additional/ECF-723-2.pdf",
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.723.2.pdf",
+      "bytes": 284298,
+      "pages": 2,
+      "sha256": "9835958f6c1bf285ee5ec5d0079273d0cab3666ef7863ba8045ac2be7b1361d6",
+      "verified_pdf_header": true
+    },
+    {
+      "exhibit": "ECF-1019-3",
+      "file": "additional/ECF-1019-3.pdf",
+      "source_url": "https://archive.org/download/gov.uscourts.cand.327949/gov.uscourts.cand.327949.1019.3.pdf",
+      "bytes": 2314102,
+      "pages": 9,
+      "sha256": "93a929cdfeba124937acf05baaad121a09f3722226585b7bd9be167baea7fa30",
+      "verified_pdf_header": true
+    }
+  ],
+  "verified_at": "2026-10-25T01:24:41.484203+00:00",
+  "total_files": 9,
+  "total_pages": 338,
+  "total_bytes": 57033927
+}
